@@ -1,0 +1,514 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cieden Chat</title>
+    <link rel="stylesheet" href="styles.css">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/xlsx@0.18.5/dist/xlsx.full.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js"></script>
+    <style>
+        body {
+            font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+            background-color: #f5f8fa;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+        }
+        
+        /* Стилі для модального вікна з графіками */
+        .charts-modal {
+            display: none;
+            position: fixed;
+            z-index: 1000;
+            left: 0;
+            top: 0;
+            width: 100%;
+            height: 100%;
+            overflow: auto;
+            background-color: rgba(0, 0, 0, 0.5);
+            backdrop-filter: blur(5px);
+        }
+        
+        .charts-modal-content {
+            background-color: white;
+            margin: 3% auto;
+            padding: 40px;
+            border-radius: 15px;
+            box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1);
+            width: 90%;
+            max-width: 1200px;
+            max-height: 90vh;
+            overflow-y: auto;
+            position: relative;
+        }
+        
+        .charts-modal-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 25px;
+            padding-bottom: 15px;
+            border-bottom: 1px solid #eee;
+        }
+        
+        .charts-modal-title {
+            font-size: 26px;
+            font-weight: bold;
+            color: #333;
+        }
+        
+        .charts-modal-close {
+            font-size: 28px;
+            font-weight: bold;
+            color: #aaa;
+            cursor: pointer;
+            height: 40px;
+            width: 40px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            border-radius: 50%;
+            transition: all 0.2s ease;
+            margin-left: 15px;
+        }
+        
+        .charts-modal-close:hover {
+            color: #7c3aed;
+            background-color: #f3f4f6;
+            transform: scale(1.1);
+        }
+        
+        .charts-modal-summary {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 30px;
+            margin-bottom: 30px;
+            padding: 20px;
+            background-color: #f9fafb;
+            border-radius: 12px;
+            box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
+            justify-content: center;
+        }
+        
+        .modal-summary-item {
+            display: flex;
+            flex-direction: column;
+            min-width: 200px;
+            text-align: center;
+            background-color: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 1px 5px rgba(0, 0, 0, 0.05);
+        }
+        
+        .modal-summary-label {
+            font-size: 14px;
+            color: #6b7280;
+            margin-bottom: 10px;
+            font-weight: 500;
+        }
+        
+        .modal-summary-value {
+            font-size: 24px;
+            font-weight: bold;
+            color: #7c3aed;
+        }
+        
+        .charts-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 25px;
+            margin-bottom: 30px;
+        }
+        
+        .chart-container {
+            background-color: white;
+            border-radius: 12px;
+            padding: 25px;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.05);
+            height: 400px;
+            position: relative;
+        }
+        
+        .chart-title {
+            font-size: 18px;
+            font-weight: 600;
+            margin-bottom: 20px;
+            color: #333;
+            text-align: center;
+        }
+        
+        /* Графіки у модальному вікні */
+        .charts-modal-content {
+            background-color: white;
+            margin: 3% auto;
+            padding: 40px;
+            border-radius: 15px;
+            box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1);
+            width: 90%;
+            max-width: 1200px;
+            max-height: 90vh;
+            overflow-y: auto;
+            position: relative;
+        }
+
+        /* Виправляємо контейнер графіка для кращого розміщення */
+        canvas.chart-js-render-monitor {
+            max-width: 100%;
+            max-height: 100%;
+        }
+        
+        @media (max-width: 992px) {
+            .charts-grid {
+                grid-template-columns: 1fr;
+            }
+            
+            .charts-modal-content {
+                width: 90%;
+                margin: 10% auto;
+            }
+        }
+        
+        .show-charts-button {
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            background-color: #7c3aed;
+            color: white;
+            padding: 8px 16px;
+            border-radius: 8px;
+            font-weight: 500;
+            margin-top: 10px;
+            cursor: pointer;
+            transition: background-color 0.2s;
+            border: none;
+            font-size: 14px;
+        }
+        
+        .show-charts-button:hover {
+            background-color: #6d28d9;
+        }
+        
+        .show-charts-button svg {
+            margin-right: 8px;
+        }
+        
+        /* Приховані елементи для підтримки JavaScript */
+        .hidden-elements {
+            display: none;
+            visibility: hidden;
+            position: absolute;
+            left: -9999px;
+        }
+        
+        /* Стилі для таблиць у повідомленнях */
+        .message table {
+            border-collapse: collapse;
+            width: 100%;
+            margin: 15px 0;
+            background-color: #fff;
+            border-radius: 8px;
+            overflow: hidden;
+            box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+        }
+        
+        .message table th {
+            background-color: #7c3aed;
+            color: white;
+            text-align: left;
+            padding: 12px;
+            font-weight: 500;
+            border-bottom: 1px solid #e2e8f0;
+        }
+        
+        .message table td {
+            padding: 10px 12px;
+            border-bottom: 1px solid #e2e8f0;
+            color: #4a5568;
+        }
+        
+        .message table tr:last-child td {
+            border-bottom: none;
+        }
+        
+        .message table tr:nth-child(even) {
+            background-color: #f8fafc;
+        }
+        
+        /* Стилі для форматування тексту в повідомленнях */
+        .message h1, .message h2, .message h3, .message h4 {
+            margin-top: 16px;
+            margin-bottom: 8px;
+            color: #1a202c;
+        }
+        
+        .message h3 {
+            font-size: 1.5rem;
+            font-weight: 600;
+            margin-top: 24px;
+            color: #1a202c;
+        }
+        
+        .message h4 {
+            font-size: 1.25rem;
+            font-weight: 600;
+            margin-top: 16px;
+            color: #4a5568;
+        }
+        
+        .message p {
+            margin-bottom: 12px;
+            line-height: 1.5;
+        }
+        
+        .message ul, .message ol {
+            padding-left: 24px;
+            margin-bottom: 16px;
+        }
+        
+        .message li {
+            margin-bottom: 6px;
+        }
+        
+        /* Стилі для кращого відображення повідомлень чату */
+        .bot-message {
+            background-color: #f9fafb;
+            border-radius: 12px;
+            padding: 16px;
+            margin-bottom: 16px;
+            box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+            max-width: 90%;
+            line-height: 1.5;
+        }
+        
+        .user-message {
+            background-color: #ede9fe;
+            color: #4c1d95;
+            border-radius: 12px;
+            padding: 16px;
+            margin-bottom: 16px;
+            margin-left: auto;
+            max-width: 85%;
+            box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+        }
+        
+        .estimation-table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 15px 0;
+            font-size: 0.95rem;
+        }
+        
+        .chat-messages {
+            padding: 20px;
+            max-height: 50vh;
+            overflow-y: auto;
+            background-color: #ffffff;
+            border-radius: 12px;
+            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+            margin-bottom: 16px;
+        }
+    </style>
+</head>
+<body>
+    <!-- Чат-контейнер -->
+    <div class="chat-container">
+        <div class="chat-header">
+            <h1>Чат-бот для оцінки проектів</h1>
+            <div class="chat-info">
+                <p>Доступні команди для роботи з інструкціями:</p>
+                <ul>
+                    <li><code>/інструкції</code> - встановити нові інструкції</li>
+                    <li><code>/завантажити_інструкції default</code> - завантажити базові інструкції</li>
+                    <li><code>/завантажити_інструкції technical</code> - завантажити технічні інструкції</li>
+                    <li><code>/завантажити_інструкції business</code> - завантажити бізнес-інструкції</li>
+                    <li><code>/завантажити_інструкції estimation</code> - завантажити інструкції для оцінки проектів</li>
+                </ul>
+                <p>Приклад встановлення інструкцій:</p>
+                <code>/інструкції Відповідайте коротко та по суті. Використовуйте технічну термінологію.</code>
+                <p>Промпт має містити питання (що, як, де, коли, чому, хто) та бути не менше 10 символів.</p>
+            </div>
+            <!-- Кнопка налаштувань прихована для клієнтів -->
+            <button id="settingsButton" class="settings-button" title="Налаштування AI" style="display: none;">
+                <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                    <circle cx="12" cy="12" r="3"></circle>
+                    <path d="M19.4 15a1.65 1.65 0 0 0 .33 1.82l.06.06a2 2 0 0 1 0 2.83 2 2 0 0 1-2.83 0l-.06-.06a1.65 1.65 0 0 0-1.82-.33 1.65 1.65 0 0 0-1 1.51V21a2 2 0 0 1-2 2 2 2 0 0 1-2-2v-.09A1.65 1.65 0 0 0 9 19.4a1.65 1.65 0 0 0-1.82.33l-.06.06a2 2 0 0 1-2.83 0 2 2 0 0 1 0-2.83l.06-.06a1.65 1.65 0 0 0 .33-1.82 1.65 1.65 0 0 0-1.51-1H3a2 2 0 0 1-2-2 2 2 0 0 1 2-2h.09A1.65 1.65 0 0 0 4.6 9a1.65 1.65 0 0 0-.33-1.82l-.06-.06a2 2 0 0 1 0-2.83 2 2 0 0 1 2.83 0l.06.06a1.65 1.65 0 0 0 1.82.33H9a1.65 1.65 0 0 0 1-1.51V3a2 2 0 0 1 2-2 2 2 0 0 1 2 2v.09a1.65 1.65 0 0 0 1 1.51 1.65 1.65 0 0 0 1.82-.33l.06-.06a2 2 0 0 1 2.83 0 2 2 0 0 1 0 2.83l-.06.06a1.65 1.65 0 0 0-.33 1.82V9a1.65 1.65 0 0 0 1.51 1H21a2 2 0 0 1 2 2 2 2 0 0 1-2 2h-.09a1.65 1.65 0 0 0-1.51 1z"></path>
+                </svg>
+            </button>
+        </div>
+        <div id="chatMessages" class="chat-messages">
+            <!-- Повідомлення будуть додаватися тут -->
+            <div class="message bot-message">Вітаю! Я чат-бот Cieden для оцінки вартості дизайну. Опишіть ваш проект, і я розрахую детальну оцінку часу та вартості розробки UI дизайну за методом PERT. Також я можу відповісти на ваші питання про компанію Cieden, наші послуги, кейси або команду.</div>
+        </div>
+        <div class="suggestion-buttons">
+            <button class="suggestion-btn">Розрахувати вартість лендінгу</button>
+            <button class="suggestion-btn">Оцінити проект e-commerce</button>
+            <button class="suggestion-btn">Вартість дизайну мобільного додатку</button>
+            <button class="suggestion-btn">Розрахувати дизайн інформаційного порталу</button>
+        </div>
+        <div class="chat-input">
+            <input type="text" id="messageInput" placeholder="Опишіть ваш проект...">
+            <button id="sendMessage" class="send-button">Надіслати</button>
+            <button id="clearChat" class="clear-button">Очистити</button>
+        </div>
+        <!-- Прихований контейнер для графіків (буде використовуватися тільки в модальному вікні) -->
+        <div class="chart-container" style="display:none;">
+            <canvas id="timeDistributionChart"></canvas>
+            <canvas id="phaseDistributionChart"></canvas>
+        </div>
+    </div>
+    
+    <!-- Модальне вікно для графіків -->
+    <div id="chartsModal" class="charts-modal">
+        <div class="charts-modal-content">
+            <div class="charts-modal-header">
+                <h2 id="chartsModalTitle" class="charts-modal-title">Деталі оцінки проекту</h2>
+                <span class="charts-modal-close" onclick="closeChartsModal()">&times;</span>
+            </div>
+            
+            <div id="chartsModalSummary" class="charts-modal-summary">
+                <!-- Тут буде сумарна інформація -->
+            </div>
+            
+            <div class="charts-grid">
+                <div class="chart-container">
+                    <div class="chart-title">Розподіл часу за сторінками</div>
+                    <canvas id="modalTimeDistributionChart"></canvas>
+                </div>
+                <div class="chart-container">
+                    <div class="chart-title">Розподіл часу за фазами</div>
+                    <canvas id="modalPhaseDistributionChart"></canvas>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <!-- Приховані елементи для підтримки JavaScript -->
+    <div class="hidden-elements">
+        <!-- Елементи для модального вікна -->
+        <div id="closeModal"></div>
+        
+        <!-- Елементи для аналізу ризиків -->
+        <div id="riskAnalysisContainer" style="display:none;">
+            <canvas id="riskDistributionChart"></canvas>
+            <div id="standardDeviation"></div>
+            <div id="completionProbability"></div>
+            <div id="riskLevel"></div>
+        </div>
+        
+        <!-- Елементи для кнопок дій -->
+        <div class="action-buttons" style="display:none;">
+            <button id="exportPDF"></button>
+            <button id="exportExcel"></button>
+            <button id="saveEstimate"></button>
+            <button id="showHistory"></button>
+            <button id="showRiskAnalysis"></button>
+            <button id="sendToEmail"></button>
+        </div>
+        
+        <!-- Елементи для історії -->
+        <div id="historyContainer" style="display:none;">
+            <div id="estimateHistory"></div>
+        </div>
+        
+        <!-- Елементи для форми email -->
+        <div id="emailFormContainer" style="display:none;">
+            <input id="emailInput">
+            <input id="includeDetailsCheckbox">
+            <input id="includeChartCheckbox">
+            <button id="cancelEmailButton"></button>
+            <button id="confirmEmailButton"></button>
+        </div>
+        
+        <!-- Елементи для експорту в PDF/Excel -->
+        <button id="exportPDFModal"></button>
+        <button id="exportExcelModal"></button>
+        <button id="sendToEmailModal"></button>
+    </div>
+    
+    <!-- Модальне вікно для налаштувань -->
+    <div id="settingsModal" class="modal-overlay">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h3>Налаштування AI</h3>
+                <span class="close-modal" id="closeSettingsModal">&times;</span>
+            </div>
+            <div class="modal-body">
+                <div class="settings-group">
+                    <label for="apiKeyInput">OpenAI API Ключ:</label>
+                    <input type="password" id="apiKeyInput" placeholder="Введіть ваш OpenAI API ключ">
+                    <p class="settings-hint">API ключ можна отримати на сайті <a href="https://platform.openai.com/api-keys" target="_blank">OpenAI Platform</a></p>
+                </div>
+                <div class="settings-group">
+                    <label for="modelSelect">Модель:</label>
+                    <select id="modelSelect">
+                        <option value="gpt-3.5-turbo">GPT-3.5 Turbo (дешевша)</option>
+                        <option value="gpt-4">GPT-4 (потужніша)</option>
+                    </select>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button id="saveSettingsButton" class="confirm-button">Зберегти</button>
+                <button id="cancelSettingsButton" class="cancel-button">Скасувати</button>
+            </div>
+        </div>
+    </div>
+    
+    <script>
+        // Функція для відкриття модального вікна з графіками
+        function openChartsModal() {
+            const modal = document.getElementById('chartsModal');
+            if (modal) {
+                if (typeof window.updateModalCharts === 'function') {
+                    window.updateModalCharts();
+                }
+                modal.style.display = 'block';
+                document.body.style.overflow = 'hidden'; // Забороняємо прокрутку основної сторінки
+            }
+        }
+        
+        // Автоматичне налаштування API ключа та моделі при завантаженні сторінки
+        window.addEventListener('load', function() {
+            // Автоматично встановлюємо API ключ та модель
+            if (localStorage) {
+                // Встановлюємо модель GPT-3.5 Turbo
+                localStorage.setItem('chatModel', 'gpt-3.5-turbo');
+                
+                // Тут вставте ваш API ключ OpenAI (він буде доступний на сервері)
+                // Безпечніше отримувати ключ з сервера, а не зберігати його в коді
+                // Наприклад: fetch('/api/getApiKey').then(...)
+            }
+            
+            // Запобігаємо створенню елементів для файлів
+            const originalCreateElement = document.createElement;
+            document.createElement = function(tagName) {
+                // Якщо створюється елемент файлового вводу або кнопка "Завантажити файли",
+                // - повертаємо пустий div, щоб не порушувати логіку коду
+                if (tagName.toLowerCase() === 'input' && arguments[0] && arguments[0].type === 'file') {
+                    const dummyElement = originalCreateElement.call(document, 'div');
+                    dummyElement.style.display = 'none';
+                    // Імітуємо методи елемента input
+                    dummyElement.click = function() {};
+                    return dummyElement;
+                }
+                return originalCreateElement.apply(document, arguments);
+            };
+            
+            // Видаляємо всі кнопки з класом upload-button
+            setTimeout(function() {
+                const uploadButtons = document.querySelectorAll('.upload-button');
+                uploadButtons.forEach(function(button) {
+                    button.remove();
+                });
+            }, 500);
+        });
+    </script>
+    <script src="chat.js"></script>
+</body>
+</html> 

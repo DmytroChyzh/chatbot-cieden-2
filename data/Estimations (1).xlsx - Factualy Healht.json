@@ -1,0 +1,7226 @@
+{
+	"pages": [
+	{
+		"width":"842",
+		"height":"595",
+		"num":"1",
+		"dir":"ltr",
+		"orient":"landscape",
+		"columns": [
+		{
+			"paragraphs": [
+			{
+				"lines": [
+				{
+					"words": [					{
+						"text":"Factually",
+						"width":"15.91",
+						"height":"3.6900000000001",
+						"left":"82.21",
+						"top":"536.43",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"Health",
+						"width":"11.49",
+						"height":"3.6900000000001",
+						"left":"99.22",
+						"top":"536.43",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"—",
+						"width":"3.98",
+						"height":"3.6900000000001",
+						"left":"111.81",
+						"top":"536.43",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"neutral",
+						"angle":"0"
+					},
+					{
+						"text":"це",
+						"width":"4.44",
+						"height":"3.6900000000001",
+						"left":"116.89",
+						"top":"536.43",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"платформа,",
+						"width":"22.15",
+						"height":"3.6900000000001",
+						"left":"122.43",
+						"top":"536.43",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"що",
+						"width":"5.43",
+						"height":"3.6900000000001",
+						"left":"145.69",
+						"top":"536.43",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"використовує",
+						"width":"24.78",
+						"height":"3.6900000000001",
+						"left":"152.22",
+						"top":"536.43",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"штучний",
+						"width":"15.74",
+						"height":"3.6900000000001",
+						"left":"178.1",
+						"top":"536.43",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"інтелект",
+						"width":"15.06",
+						"height":"3.6900000000001",
+						"left":"194.95",
+						"top":"536.43",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"для",
+						"width":"6.78",
+						"height":"3.6900000000001",
+						"left":"211.12",
+						"top":"536.43",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"надання",
+						"width":"15.47",
+						"height":"3.6900000000001",
+						"left":"219.01",
+						"top":"536.43",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"достовірної",
+						"width":"21.22",
+						"height":"3.6900000000001",
+						"left":"235.58",
+						"top":"536.43",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"медичної",
+						"width":"16.97",
+						"height":"3.6900000000001",
+						"left":"257.91",
+						"top":"536.43",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"інформації.",
+						"width":"21.07",
+						"height":"3.6900000000001",
+						"left":"275.98",
+						"top":"536.43",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"Вона",
+						"width":"9.27",
+						"height":"3.6900000000001",
+						"left":"298.15",
+						"top":"536.43",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"пропонує",
+						"width":"17.15",
+						"height":"3.6900000000001",
+						"left":"308.52",
+						"top":"536.43",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"два",
+						"width":"6.6",
+						"height":"3.6900000000001",
+						"left":"326.77",
+						"top":"536.43",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"основні",
+						"width":"13.79",
+						"height":"3.6900000000001",
+						"left":"334.47",
+						"top":"536.43",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"інструменти:",
+						"width":"23.28",
+						"height":"3.6900000000001",
+						"left":"349.37",
+						"top":"536.43",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					}]
+				}]
+			}]
+		},
+		{
+			"paragraphs": [
+			{
+				"lines": [
+				{
+					"words": [					{
+						"text":"1.",
+						"width":"3.32",
+						"height":"3.6800000000001",
+						"left":"82.21",
+						"top":"527.29",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"**AI-Пошук",
+						"width":"20.15",
+						"height":"3.6800000000001",
+						"left":"86.63",
+						"top":"527.29",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"Фактів**:",
+						"width":"16.03",
+						"height":"3.6800000000001",
+						"left":"107.88",
+						"top":"527.29",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"Автоматизована",
+						"width":"30.24",
+						"height":"3.6800000000001",
+						"left":"125.01",
+						"top":"527.29",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"система,",
+						"width":"16.23",
+						"height":"3.6800000000001",
+						"left":"156.35",
+						"top":"527.29",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"підкріплена",
+						"width":"21.27",
+						"height":"3.6800000000001",
+						"left":"173.68",
+						"top":"527.29",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"експертними",
+						"width":"23.66",
+						"height":"3.6800000000001",
+						"left":"196.05",
+						"top":"527.29",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"знаннями,",
+						"width":"18.82",
+						"height":"3.6800000000001",
+						"left":"220.81",
+						"top":"527.29",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"знаходить",
+						"width":"18.73",
+						"height":"3.6800000000001",
+						"left":"240.73",
+						"top":"527.29",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"релевантні",
+						"width":"20.2",
+						"height":"3.6800000000001",
+						"left":"260.56",
+						"top":"527.29",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"фактичні",
+						"width":"16.44",
+						"height":"3.6800000000001",
+						"left":"281.86",
+						"top":"527.29",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"статті",
+						"width":"10.42",
+						"height":"3.6800000000001",
+						"left":"299.41",
+						"top":"527.29",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"для",
+						"width":"6.79",
+						"height":"3.6800000000001",
+						"left":"310.93",
+						"top":"527.29",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"відповіді",
+						"width":"15.87",
+						"height":"3.6800000000001",
+						"left":"318.82",
+						"top":"527.29",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"на",
+						"width":"4.41",
+						"height":"3.6800000000001",
+						"left":"335.79",
+						"top":"527.29",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"запити",
+						"width":"12.44",
+						"height":"3.6800000000001",
+						"left":"341.3",
+						"top":"527.29",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"користувачів.",
+						"width":"24.63",
+						"height":"3.6800000000001",
+						"left":"354.84",
+						"top":"527.29",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"Цей",
+						"width":"7.37",
+						"height":"3.6800000000001",
+						"left":"380.57",
+						"top":"527.29",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"інструмент",
+						"width":"19.96",
+						"height":"3.6800000000001",
+						"left":"389.04",
+						"top":"527.29",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"можна",
+						"width":"11.96",
+						"height":"3.6800000000001",
+						"left":"410.1",
+						"top":"527.29",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"інтегрувати",
+						"width":"20.91",
+						"height":"3.6800000000001",
+						"left":"423.16",
+						"top":"527.29",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"з",
+						"width":"1.82",
+						"height":"3.6800000000001",
+						"left":"445.17",
+						"top":"527.29",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"внутрішніми",
+						"width":"22.43",
+						"height":"3.6800000000001",
+						"left":"448.09",
+						"top":"527.29",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"даними",
+						"width":"13.9",
+						"height":"3.6800000000001",
+						"left":"471.62",
+						"top":"527.29",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"компанії",
+						"width":"15.27",
+						"height":"3.6800000000001",
+						"left":"486.62",
+						"top":"527.29",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"для",
+						"width":"6.79",
+						"height":"3.6800000000001",
+						"left":"502.99",
+						"top":"527.29",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"пошуку",
+						"width":"13.31",
+						"height":"3.6800000000001",
+						"left":"510.88",
+						"top":"527.29",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"як",
+						"width":"3.89",
+						"height":"3.6800000000001",
+						"left":"525.29",
+						"top":"527.29",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"у",
+						"width":"1.99",
+						"height":"3.6800000000001",
+						"left":"530.28",
+						"top":"527.29",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"зовнішніх,",
+						"width":"18.53",
+						"height":"3.6800000000001",
+						"left":"533.37",
+						"top":"527.29",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"так",
+						"width":"5.72",
+						"height":"3.6800000000001",
+						"left":"553.01",
+						"top":"527.29",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"і",
+						"width":"0.88999999999999",
+						"height":"3.6800000000001",
+						"left":"559.83",
+						"top":"527.29",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"у",
+						"width":"1.9899999999999",
+						"height":"3.6800000000001",
+						"left":"561.82",
+						"top":"527.29",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"внутрішніх",
+						"width":"19.46",
+						"height":"3.6800000000001",
+						"left":"564.91",
+						"top":"527.29",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"джерелах",
+						"width":"17.99",
+						"height":"3.6800000000001",
+						"left":"585.48",
+						"top":"527.29",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"інформації.",
+						"width":"21.07",
+						"height":"3.6800000000001",
+						"left":"604.57",
+						"top":"527.29",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"Дизайн",
+						"width":"13.35",
+						"height":"3.6800000000001",
+						"left":"626.75",
+						"top":"527.29",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"пошукового",
+						"width":"21.38",
+						"height":"3.6800000000001",
+						"left":"641.21",
+						"top":"527.29",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"інструменту",
+						"width":"22",
+						"height":"3.6800000000001",
+						"left":"663.69",
+						"top":"527.29",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"налаштовується",
+						"width":"30.18",
+						"height":"3.6800000000001",
+						"left":"686.79",
+						"top":"527.29",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"відповідно",
+						"width":"19.39",
+						"height":"3.6800000000001",
+						"left":"718.08",
+						"top":"527.29",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"до",
+						"width":"4.53",
+						"height":"3.6800000000001",
+						"left":"738.57",
+						"top":"527.29",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"брендингу",
+						"width":"19.06",
+						"height":"3.6800000000001",
+						"left":"744.2",
+						"top":"527.29",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"організації.",
+						"width":"20.47",
+						"height":"3.6800000000001",
+						"left":"764.36",
+						"top":"527.29",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					}]
+				}]
+			}]
+		},
+		{
+			"paragraphs": [
+			{
+				"lines": [
+				{
+					"words": [					{
+						"text":"2.",
+						"width":"3.32",
+						"height":"3.6900000000001",
+						"left":"82.21",
+						"top":"518.14",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"**Розмовний",
+						"width":"23.25",
+						"height":"3.6900000000001",
+						"left":"86.63",
+						"top":"518.14",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"HealthBot**:",
+						"width":"21.64",
+						"height":"3.6900000000001",
+						"left":"110.98",
+						"top":"518.14",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"Цей",
+						"width":"7.37",
+						"height":"3.6900000000001",
+						"left":"133.72",
+						"top":"518.14",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"чат-бот",
+						"width":"13.57",
+						"height":"3.6900000000001",
+						"left":"142.19",
+						"top":"518.14",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"надає",
+						"width":"10.96",
+						"height":"3.6900000000001",
+						"left":"156.86",
+						"top":"518.14",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"точні",
+						"width":"9.05",
+						"height":"3.6900000000001",
+						"left":"168.93",
+						"top":"518.14",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"відповіді",
+						"width":"15.87",
+						"height":"3.6900000000001",
+						"left":"179.08",
+						"top":"518.14",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"на",
+						"width":"4.41",
+						"height":"3.6900000000001",
+						"left":"196.05",
+						"top":"518.14",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"медичні",
+						"width":"14.54",
+						"height":"3.6900000000001",
+						"left":"201.56",
+						"top":"518.14",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"питання",
+						"width":"14.9",
+						"height":"3.6900000000001",
+						"left":"217.2",
+						"top":"518.14",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"в",
+						"width":"2.11",
+						"height":"3.6900000000001",
+						"left":"233.21",
+						"top":"518.14",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"режимі",
+						"width":"12.87",
+						"height":"3.6900000000001",
+						"left":"236.42",
+						"top":"518.14",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"реального",
+						"width":"19",
+						"height":"3.6900000000001",
+						"left":"250.39",
+						"top":"518.14",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"часу,",
+						"width":"8.96",
+						"height":"3.6900000000001",
+						"left":"270.49",
+						"top":"518.14",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"покращуючи",
+						"width":"23.01",
+						"height":"3.6900000000001",
+						"left":"280.55",
+						"top":"518.14",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"взаємодію",
+						"width":"19.18",
+						"height":"3.6900000000001",
+						"left":"304.66",
+						"top":"518.14",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"з",
+						"width":"1.82",
+						"height":"3.6900000000001",
+						"left":"324.94",
+						"top":"518.14",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"пацієнтами",
+						"width":"20.68",
+						"height":"3.6900000000001",
+						"left":"327.86",
+						"top":"518.14",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"та",
+						"width":"3.99",
+						"height":"3.6900000000001",
+						"left":"349.64",
+						"top":"518.14",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"клієнтами.",
+						"width":"19.25",
+						"height":"3.6900000000001",
+						"left":"354.73",
+						"top":"518.14",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"Його",
+						"width":"8.64",
+						"height":"3.6900000000001",
+						"left":"375.08",
+						"top":"518.14",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"зовнішній",
+						"width":"17.66",
+						"height":"3.6900000000001",
+						"left":"384.83",
+						"top":"518.14",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"вигляд",
+						"width":"12.49",
+						"height":"3.6900000000001",
+						"left":"403.59",
+						"top":"518.14",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"та",
+						"width":"3.99",
+						"height":"3.6900000000001",
+						"left":"417.18",
+						"top":"518.14",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"відповіді",
+						"width":"15.87",
+						"height":"3.6900000000001",
+						"left":"422.27",
+						"top":"518.14",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"можна",
+						"width":"11.96",
+						"height":"3.6900000000001",
+						"left":"439.24",
+						"top":"518.14",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"налаштувати",
+						"width":"24.22",
+						"height":"3.6900000000001",
+						"left":"452.3",
+						"top":"518.14",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"відповідно",
+						"width":"19.39",
+						"height":"3.6900000000001",
+						"left":"477.62",
+						"top":"518.14",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"до",
+						"width":"4.52",
+						"height":"3.6900000000001",
+						"left":"498.12",
+						"top":"518.14",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"бренду",
+						"width":"13.2",
+						"height":"3.6900000000001",
+						"left":"503.75",
+						"top":"518.14",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"та",
+						"width":"3.99",
+						"height":"3.6900000000001",
+						"left":"518.05",
+						"top":"518.14",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"тону",
+						"width":"8.17",
+						"height":"3.6900000000001",
+						"left":"523.14",
+						"top":"518.14",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"організації.",
+						"width":"20.47",
+						"height":"3.6900000000001",
+						"left":"532.41",
+						"top":"518.14",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"Доступний",
+						"width":"19.57",
+						"height":"3.6900000000001",
+						"left":"553.98",
+						"top":"518.14",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"API",
+						"width":"6.39",
+						"height":"3.6900000000001",
+						"left":"574.66",
+						"top":"518.14",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"для",
+						"width":"6.7800000000001",
+						"height":"3.6900000000001",
+						"left":"582.16",
+						"top":"518.14",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"легкої",
+						"width":"11.07",
+						"height":"3.6900000000001",
+						"left":"590.05",
+						"top":"518.14",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"інтеграції",
+						"width":"17.19",
+						"height":"3.6900000000001",
+						"left":"602.22",
+						"top":"518.14",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"з",
+						"width":"1.83",
+						"height":"3.6900000000001",
+						"left":"620.51",
+						"top":"518.14",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"платформою",
+						"width":"24.03",
+						"height":"3.6900000000001",
+						"left":"623.44",
+						"top":"518.14",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"без",
+						"width":"6.1799999999999",
+						"height":"3.6900000000001",
+						"left":"648.57",
+						"top":"518.14",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"використання",
+						"width":"25.27",
+						"height":"3.6900000000001",
+						"left":"655.86",
+						"top":"518.14",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"інтерфейсу",
+						"width":"20.95",
+						"height":"3.6900000000001",
+						"left":"682.23",
+						"top":"518.14",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"Factually",
+						"width":"15.91",
+						"height":"3.6900000000001",
+						"left":"704.28",
+						"top":"518.14",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"Health.",
+						"width":"12.59",
+						"height":"3.6900000000001",
+						"left":"721.29",
+						"top":"518.14",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					}]
+				}]
+			}]
+		},
+		{
+			"paragraphs": [
+			{
+				"lines": [
+				{
+					"words": [					{
+						"text":"**Цільова",
+						"width":"17.8",
+						"height":"3.6799999999999",
+						"left":"82.21",
+						"top":"509",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"аудиторія**:",
+						"width":"21.99",
+						"height":"3.6799999999999",
+						"left":"101.11",
+						"top":"509",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					}]
+				}]
+			}]
+		},
+		{
+			"paragraphs": [
+			{
+				"lines": [
+				{
+					"words": [					{
+						"text":"-",
+						"width":"1.33",
+						"height":"3.6799999999999",
+						"left":"82.21",
+						"top":"499.85",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"neutral",
+						"angle":"0"
+					},
+					{
+						"text":"**Медичні",
+						"width":"18.26",
+						"height":"3.6799999999999",
+						"left":"84.64",
+						"top":"499.85",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"та",
+						"width":"3.99",
+						"height":"3.6799999999999",
+						"left":"104",
+						"top":"499.85",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"клінічні",
+						"width":"13.21",
+						"height":"3.6799999999999",
+						"left":"109.09",
+						"top":"499.85",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"установи**:",
+						"width":"20.85",
+						"height":"3.6799999999999",
+						"left":"123.4",
+						"top":"499.85",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"Покращення",
+						"width":"23.2",
+						"height":"3.6799999999999",
+						"left":"145.36",
+						"top":"499.85",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"догляду",
+						"width":"14.67",
+						"height":"3.6799999999999",
+						"left":"169.66",
+						"top":"499.85",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"за",
+						"width":"4.04",
+						"height":"3.6799999999999",
+						"left":"185.43",
+						"top":"499.85",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"пацієнтами",
+						"width":"20.68",
+						"height":"3.6799999999999",
+						"left":"190.57",
+						"top":"499.85",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"шляхом",
+						"width":"14.55",
+						"height":"3.6799999999999",
+						"left":"212.35",
+						"top":"499.85",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"надання",
+						"width":"15.48",
+						"height":"3.6799999999999",
+						"left":"228",
+						"top":"499.85",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"достовірної",
+						"width":"21.22",
+						"height":"3.6799999999999",
+						"left":"244.58",
+						"top":"499.85",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"медичної",
+						"width":"16.97",
+						"height":"3.6799999999999",
+						"left":"266.9",
+						"top":"499.85",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"інформації,",
+						"width":"21.08",
+						"height":"3.6799999999999",
+						"left":"284.97",
+						"top":"499.85",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"що",
+						"width":"5.44",
+						"height":"3.6799999999999",
+						"left":"307.15",
+						"top":"499.85",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"сприяє",
+						"width":"12.75",
+						"height":"3.6799999999999",
+						"left":"313.69",
+						"top":"499.85",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"довірі",
+						"width":"10.62",
+						"height":"3.6799999999999",
+						"left":"327.54",
+						"top":"499.85",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"та",
+						"width":"3.99",
+						"height":"3.6799999999999",
+						"left":"339.26",
+						"top":"499.85",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"обґрунтованому",
+						"width":"29.91",
+						"height":"3.6799999999999",
+						"left":"344.35",
+						"top":"499.85",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"прийняттю",
+						"width":"19.77",
+						"height":"3.6799999999999",
+						"left":"375.36",
+						"top":"499.85",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"рішень.",
+						"width":"13.86",
+						"height":"3.6799999999999",
+						"left":"396.23",
+						"top":"499.85",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					}]
+				}]
+			}]
+		},
+		{
+			"paragraphs": [
+			{
+				"lines": [
+				{
+					"words": [					{
+						"text":"-",
+						"width":"1.33",
+						"height":"3.68",
+						"left":"82.21",
+						"top":"490.71",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"neutral",
+						"angle":"0"
+					},
+					{
+						"text":"**Освітні",
+						"width":"16.07",
+						"height":"3.68",
+						"left":"84.64",
+						"top":"490.71",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"та",
+						"width":"3.99",
+						"height":"3.68",
+						"left":"101.81",
+						"top":"490.71",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"медіа",
+						"width":"10.27",
+						"height":"3.68",
+						"left":"106.9",
+						"top":"490.71",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"організації**:",
+						"width":"23.56",
+						"height":"3.68",
+						"left":"118.27",
+						"top":"490.71",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"Підвищення",
+						"width":"22.37",
+						"height":"3.68",
+						"left":"142.93",
+						"top":"490.71",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"якості",
+						"width":"10.84",
+						"height":"3.68",
+						"left":"166.4",
+						"top":"490.71",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"контенту",
+						"width":"16.22",
+						"height":"3.68",
+						"left":"178.34",
+						"top":"490.71",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"за",
+						"width":"4.03",
+						"height":"3.68",
+						"left":"195.67",
+						"top":"490.71",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"допомогою",
+						"width":"20.39",
+						"height":"3.68",
+						"left":"200.8",
+						"top":"490.71",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"точних",
+						"width":"12.38",
+						"height":"3.68",
+						"left":"222.29",
+						"top":"490.71",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"медичних",
+						"width":"17.87",
+						"height":"3.68",
+						"left":"235.77",
+						"top":"490.71",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"даних,",
+						"width":"12.03",
+						"height":"3.68",
+						"left":"254.74",
+						"top":"490.71",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"що",
+						"width":"5.43",
+						"height":"3.68",
+						"left":"267.88",
+						"top":"490.71",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"дозволяє",
+						"width":"17",
+						"height":"3.68",
+						"left":"274.41",
+						"top":"490.71",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"створювати",
+						"width":"21.52",
+						"height":"3.68",
+						"left":"292.51",
+						"top":"490.71",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"захоплюючі",
+						"width":"21.49",
+						"height":"3.68",
+						"left":"315.13",
+						"top":"490.71",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"та",
+						"width":"3.98",
+						"height":"3.68",
+						"left":"337.73",
+						"top":"490.71",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"надійні",
+						"width":"12.9",
+						"height":"3.68",
+						"left":"342.82",
+						"top":"490.71",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"матеріали.",
+						"width":"19.79",
+						"height":"3.68",
+						"left":"356.82",
+						"top":"490.71",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					}]
+				}]
+			}]
+		},
+		{
+			"paragraphs": [
+			{
+				"lines": [
+				{
+					"words": [					{
+						"text":"-",
+						"width":"1.33",
+						"height":"3.68",
+						"left":"82.21",
+						"top":"481.56",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"neutral",
+						"angle":"0"
+					},
+					{
+						"text":"**Організації,",
+						"width":"24.44",
+						"height":"3.68",
+						"left":"84.64",
+						"top":"481.56",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"що",
+						"width":"5.44",
+						"height":"3.68",
+						"left":"110.18",
+						"top":"481.56",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"займаються",
+						"width":"22.12",
+						"height":"3.68",
+						"left":"116.72",
+						"top":"481.56",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"здоров'ям",
+						"width":"18.44",
+						"height":"3.68",
+						"left":"139.94",
+						"top":"481.56",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"та",
+						"width":"3.98",
+						"height":"3.68",
+						"left":"159.49",
+						"top":"481.56",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"профілактикою**:",
+						"width":"32.24",
+						"height":"3.68",
+						"left":"164.58",
+						"top":"481.56",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"Надання",
+						"width":"16.16",
+						"height":"3.68",
+						"left":"197.92",
+						"top":"481.56",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"клієнтам",
+						"width":"15.93",
+						"height":"3.68",
+						"left":"215.18",
+						"top":"481.56",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"достовірної",
+						"width":"21.22",
+						"height":"3.68",
+						"left":"232.21",
+						"top":"481.56",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"інформації",
+						"width":"19.97",
+						"height":"3.68",
+						"left":"254.53",
+						"top":"481.56",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"для",
+						"width":"6.79",
+						"height":"3.68",
+						"left":"275.6",
+						"top":"481.56",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"прийняття",
+						"width":"18.94",
+						"height":"3.68",
+						"left":"283.49",
+						"top":"481.56",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"обґрунтованих",
+						"width":"27.15",
+						"height":"3.68",
+						"left":"303.53",
+						"top":"481.56",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"рішень",
+						"width":"12.75",
+						"height":"3.68",
+						"left":"331.78",
+						"top":"481.56",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"щодо",
+						"width":"9.88",
+						"height":"3.68",
+						"left":"345.64",
+						"top":"481.56",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"здоров'я.",
+						"width":"16.81",
+						"height":"3.68",
+						"left":"356.62",
+						"top":"481.56",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					}]
+				}]
+			}]
+		},
+		{
+			"paragraphs": [
+			{
+				"lines": [
+				{
+					"words": [					{
+						"text":"**Типи",
+						"width":"11.94",
+						"height":"3.69",
+						"left":"82.21",
+						"top":"472.41",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"користувачів**:",
+						"width":"27.72",
+						"height":"3.69",
+						"left":"95.25",
+						"top":"472.41",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					}]
+				}]
+			}]
+		},
+		{
+			"paragraphs": [
+			{
+				"lines": [
+				{
+					"words": [					{
+						"text":"-",
+						"width":"1.33",
+						"height":"3.68",
+						"left":"82.21",
+						"top":"463.27",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"neutral",
+						"angle":"0"
+					},
+					{
+						"text":"**Пацієнти",
+						"width":"19.58",
+						"height":"3.68",
+						"left":"84.64",
+						"top":"463.27",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"та",
+						"width":"3.99",
+						"height":"3.68",
+						"left":"105.32",
+						"top":"463.27",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"споживачі**:",
+						"width":"22.53",
+						"height":"3.68",
+						"left":"110.41",
+						"top":"463.27",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"Особи,",
+						"width":"12.93",
+						"height":"3.68",
+						"left":"134.04",
+						"top":"463.27",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"які",
+						"width":"4.77",
+						"height":"3.68",
+						"left":"148.07",
+						"top":"463.27",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"шукають",
+						"width":"16",
+						"height":"3.68",
+						"left":"153.94",
+						"top":"463.27",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"достовірну",
+						"width":"19.9",
+						"height":"3.68",
+						"left":"171.04",
+						"top":"463.27",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"медичну",
+						"width":"15.65",
+						"height":"3.68",
+						"left":"192.04",
+						"top":"463.27",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"інформацію",
+						"width":"21.85",
+						"height":"3.68",
+						"left":"208.79",
+						"top":"463.27",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"для",
+						"width":"6.79",
+						"height":"3.68",
+						"left":"231.74",
+						"top":"463.27",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"прийняття",
+						"width":"18.94",
+						"height":"3.68",
+						"left":"239.63",
+						"top":"463.27",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"обґрунтованих",
+						"width":"27.14",
+						"height":"3.68",
+						"left":"259.68",
+						"top":"463.27",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"рішень",
+						"width":"12.76",
+						"height":"3.68",
+						"left":"287.92",
+						"top":"463.27",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"щодо",
+						"width":"9.8800000000001",
+						"height":"3.68",
+						"left":"301.78",
+						"top":"463.27",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"свого",
+						"width":"9.84",
+						"height":"3.68",
+						"left":"312.76",
+						"top":"463.27",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"здоров'я.",
+						"width":"16.81",
+						"height":"3.68",
+						"left":"323.7",
+						"top":"463.27",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					}]
+				}]
+			}]
+		},
+		{
+			"paragraphs": [
+			{
+				"lines": [
+				{
+					"words": [					{
+						"text":"-",
+						"width":"1.33",
+						"height":"3.69",
+						"left":"82.21",
+						"top":"454.12",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"neutral",
+						"angle":"0"
+					},
+					{
+						"text":"**Медичні",
+						"width":"18.26",
+						"height":"3.69",
+						"left":"84.64",
+						"top":"454.12",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"працівники**:",
+						"width":"24.41",
+						"height":"3.69",
+						"left":"104",
+						"top":"454.12",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"Фахівці,",
+						"width":"14.48",
+						"height":"3.69",
+						"left":"129.51",
+						"top":"454.12",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"які",
+						"width":"4.77",
+						"height":"3.69",
+						"left":"145.09",
+						"top":"454.12",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"використовують",
+						"width":"29.54",
+						"height":"3.69",
+						"left":"150.96",
+						"top":"454.12",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"платформу",
+						"width":"20.87",
+						"height":"3.69",
+						"left":"181.6",
+						"top":"454.12",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"для",
+						"width":"6.78",
+						"height":"3.69",
+						"left":"203.58",
+						"top":"454.12",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"надання",
+						"width":"15.47",
+						"height":"3.69",
+						"left":"211.47",
+						"top":"454.12",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"пацієнтам",
+						"width":"18.47",
+						"height":"3.69",
+						"left":"228.04",
+						"top":"454.12",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"точної",
+						"width":"11.48",
+						"height":"3.69",
+						"left":"247.61",
+						"top":"454.12",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"та",
+						"width":"3.99",
+						"height":"3.69",
+						"left":"260.19",
+						"top":"454.12",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"актуальної",
+						"width":"19.91",
+						"height":"3.69",
+						"left":"265.28",
+						"top":"454.12",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"інформації.",
+						"width":"21.07",
+						"height":"3.69",
+						"left":"286.29",
+						"top":"454.12",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					}]
+				}]
+			}]
+		},
+		{
+			"paragraphs": [
+			{
+				"lines": [
+				{
+					"words": [					{
+						"text":"-",
+						"width":"1.33",
+						"height":"3.68",
+						"left":"82.21",
+						"top":"444.98",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"neutral",
+						"angle":"0"
+					},
+					{
+						"text":"**Освітяни",
+						"width":"19.55",
+						"height":"3.68",
+						"left":"84.64",
+						"top":"444.98",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"та",
+						"width":"3.99",
+						"height":"3.68",
+						"left":"105.29",
+						"top":"444.98",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"журналісти**:",
+						"width":"24.69",
+						"height":"3.68",
+						"left":"110.38",
+						"top":"444.98",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"Професіонали,",
+						"width":"27.89",
+						"height":"3.68",
+						"left":"136.17",
+						"top":"444.98",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"які",
+						"width":"4.77",
+						"height":"3.68",
+						"left":"165.16",
+						"top":"444.98",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"створюють",
+						"width":"20.07",
+						"height":"3.68",
+						"left":"171.03",
+						"top":"444.98",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"контент",
+						"width":"14.19",
+						"height":"3.68",
+						"left":"192.21",
+						"top":"444.98",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"на",
+						"width":"4.41",
+						"height":"3.68",
+						"left":"207.5",
+						"top":"444.98",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"основі",
+						"width":"11.6",
+						"height":"3.68",
+						"left":"213.01",
+						"top":"444.98",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"достовірних",
+						"width":"22.11",
+						"height":"3.68",
+						"left":"225.71",
+						"top":"444.98",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"медичних",
+						"width":"17.86",
+						"height":"3.68",
+						"left":"248.93",
+						"top":"444.98",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"даних.",
+						"width":"12.04",
+						"height":"3.68",
+						"left":"267.89",
+						"top":"444.98",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					}]
+				}]
+			}]
+		},
+		{
+			"paragraphs": [
+			{
+				"lines": [
+				{
+					"words": [					{
+						"text":"**Дизайнерські",
+						"width":"27.55",
+						"height":"3.68",
+						"left":"82.21",
+						"top":"435.83",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"міркування**:",
+						"width":"24.61",
+						"height":"3.68",
+						"left":"110.87",
+						"top":"435.83",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					}]
+				}]
+			}]
+		},
+		{
+			"paragraphs": [
+			{
+				"lines": [
+				{
+					"words": [					{
+						"text":"-",
+						"width":"1.33",
+						"height":"3.68",
+						"left":"82.21",
+						"top":"426.69",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"neutral",
+						"angle":"0"
+					},
+					{
+						"text":"**Інтуїтивно",
+						"width":"21.9",
+						"height":"3.68",
+						"left":"84.64",
+						"top":"426.69",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"зрозумілий",
+						"width":"20.3",
+						"height":"3.68",
+						"left":"107.64",
+						"top":"426.69",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"інтерфейс**:",
+						"width":"23.16",
+						"height":"3.68",
+						"left":"129.04",
+						"top":"426.69",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"Забезпечення",
+						"width":"25.85",
+						"height":"3.68",
+						"left":"153.3",
+						"top":"426.69",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"простоти",
+						"width":"16.51",
+						"height":"3.68",
+						"left":"180.25",
+						"top":"426.69",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"використання",
+						"width":"25.27",
+						"height":"3.68",
+						"left":"197.86",
+						"top":"426.69",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"для",
+						"width":"6.79",
+						"height":"3.68",
+						"left":"224.23",
+						"top":"426.69",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"різних",
+						"width":"11.32",
+						"height":"3.68",
+						"left":"232.12",
+						"top":"426.69",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"типів",
+						"width":"9.19",
+						"height":"3.68",
+						"left":"244.54",
+						"top":"426.69",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"користувачів.",
+						"width":"24.62",
+						"height":"3.68",
+						"left":"254.83",
+						"top":"426.69",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					}]
+				}]
+			}]
+		},
+		{
+			"paragraphs": [
+			{
+				"lines": [
+				{
+					"words": [					{
+						"text":"-",
+						"width":"1.33",
+						"height":"3.68",
+						"left":"82.21",
+						"top":"417.54",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"neutral",
+						"angle":"0"
+					},
+					{
+						"text":"**Адаптивний",
+						"width":"25.21",
+						"height":"3.68",
+						"left":"84.64",
+						"top":"417.54",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"дизайн**:",
+						"width":"17.18",
+						"height":"3.68",
+						"left":"110.95",
+						"top":"417.54",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"Гарантія",
+						"width":"15.61",
+						"height":"3.68",
+						"left":"129.23",
+						"top":"417.54",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"коректного",
+						"width":"20",
+						"height":"3.68",
+						"left":"145.94",
+						"top":"417.54",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"відображення",
+						"width":"25.63",
+						"height":"3.68",
+						"left":"167.05",
+						"top":"417.54",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"на",
+						"width":"4.4",
+						"height":"3.68",
+						"left":"193.78",
+						"top":"417.54",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"різних",
+						"width":"11.32",
+						"height":"3.68",
+						"left":"199.28",
+						"top":"417.54",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"пристроях",
+						"width":"18.96",
+						"height":"3.68",
+						"left":"211.7",
+						"top":"417.54",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"та",
+						"width":"3.99",
+						"height":"3.68",
+						"left":"231.76",
+						"top":"417.54",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"екранах.",
+						"width":"15.87",
+						"height":"3.68",
+						"left":"236.85",
+						"top":"417.54",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					}]
+				}]
+			}]
+		},
+		{
+			"paragraphs": [
+			{
+				"lines": [
+				{
+					"words": [					{
+						"text":"-",
+						"width":"1.33",
+						"height":"3.68",
+						"left":"82.21",
+						"top":"408.4",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"neutral",
+						"angle":"0"
+					},
+					{
+						"text":"**Брендування**:",
+						"width":"31.64",
+						"height":"3.68",
+						"left":"84.64",
+						"top":"408.4",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"Можливість",
+						"width":"21.59",
+						"height":"3.68",
+						"left":"117.38",
+						"top":"408.4",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"налаштування",
+						"width":"26.79",
+						"height":"3.68",
+						"left":"140.08",
+						"top":"408.4",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"зовнішнього",
+						"width":"22.41",
+						"height":"3.68",
+						"left":"167.98",
+						"top":"408.4",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"вигляду",
+						"width":"14.48",
+						"height":"3.68",
+						"left":"191.49",
+						"top":"408.4",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"інструментів",
+						"width":"22.95",
+						"height":"3.68",
+						"left":"207.07",
+						"top":"408.4",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"відповідно",
+						"width":"19.4",
+						"height":"3.68",
+						"left":"231.12",
+						"top":"408.4",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"до",
+						"width":"4.53",
+						"height":"3.68",
+						"left":"251.62",
+						"top":"408.4",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"бренду",
+						"width":"13.2",
+						"height":"3.68",
+						"left":"257.25",
+						"top":"408.4",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"клієнта.",
+						"width":"14.3",
+						"height":"3.68",
+						"left":"271.55",
+						"top":"408.4",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					}]
+				}]
+			}]
+		},
+		{
+			"paragraphs": [
+			{
+				"lines": [
+				{
+					"words": [					{
+						"text":"-",
+						"width":"1.33",
+						"height":"3.68",
+						"left":"82.21",
+						"top":"399.25",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"neutral",
+						"angle":"0"
+					},
+					{
+						"text":"**Доступність**:",
+						"width":"29.18",
+						"height":"3.68",
+						"left":"84.64",
+						"top":"399.25",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"Дотримання",
+						"width":"22.6",
+						"height":"3.68",
+						"left":"114.93",
+						"top":"399.25",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"стандартів",
+						"width":"19.64",
+						"height":"3.68",
+						"left":"138.63",
+						"top":"399.25",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"доступності",
+						"width":"21.63",
+						"height":"3.68",
+						"left":"159.37",
+						"top":"399.25",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"для",
+						"width":"6.79",
+						"height":"3.68",
+						"left":"182.1",
+						"top":"399.25",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"користувачів",
+						"width":"23.52",
+						"height":"3.68",
+						"left":"189.99",
+						"top":"399.25",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"з",
+						"width":"1.82",
+						"height":"3.68",
+						"left":"214.61",
+						"top":"399.25",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"обмеженими",
+						"width":"23.54",
+						"height":"3.68",
+						"left":"217.53",
+						"top":"399.25",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"можливостями.",
+						"width":"28.39",
+						"height":"3.68",
+						"left":"242.17",
+						"top":"399.25",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					}]
+				}]
+			}]
+		},
+		{
+			"paragraphs": [
+			{
+				"lines": [
+				{
+					"words": [					{
+						"text":"-",
+						"width":"1.33",
+						"height":"3.69",
+						"left":"82.21",
+						"top":"390.1",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"neutral",
+						"angle":"0"
+					},
+					{
+						"text":"**Безпека",
+						"width":"18.05",
+						"height":"3.69",
+						"left":"84.64",
+						"top":"390.1",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"даних**:",
+						"width":"15.12",
+						"height":"3.69",
+						"left":"103.79",
+						"top":"390.1",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"Забезпечення",
+						"width":"25.84",
+						"height":"3.69",
+						"left":"120.02",
+						"top":"390.1",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"конфіденційності",
+						"width":"31.54",
+						"height":"3.69",
+						"left":"146.96",
+						"top":"390.1",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"та",
+						"width":"3.99",
+						"height":"3.69",
+						"left":"179.6",
+						"top":"390.1",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"безпеки",
+						"width":"14.5",
+						"height":"3.69",
+						"left":"184.69",
+						"top":"390.1",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"медичної",
+						"width":"16.98",
+						"height":"3.69",
+						"left":"200.29",
+						"top":"390.1",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"інформації",
+						"width":"19.97",
+						"height":"3.69",
+						"left":"218.37",
+						"top":"390.1",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"користувачів.",
+						"width":"24.63",
+						"height":"3.69",
+						"left":"239.44",
+						"top":"390.1",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					}]
+				}]
+			}]
+		},
+		{
+			"paragraphs": [
+			{
+				"lines": [
+				{
+					"words": [					{
+						"text":"About",
+						"width":"10.38",
+						"height":"3.68",
+						"left":"51.32",
+						"top":"381.02",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"project",
+						"width":"11.93",
+						"height":"3.68",
+						"left":"62.8",
+						"top":"381.02",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"Детальніше",
+						"width":"21.63",
+						"height":"3.68",
+						"left":"82.21",
+						"top":"380.96",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"про",
+						"width":"6.57",
+						"height":"3.68",
+						"left":"104.94",
+						"top":"380.96",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"платформу",
+						"width":"20.87",
+						"height":"3.68",
+						"left":"112.62",
+						"top":"380.96",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"та",
+						"width":"3.99",
+						"height":"3.68",
+						"left":"134.59",
+						"top":"380.96",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"її",
+						"width":"2.2",
+						"height":"3.68",
+						"left":"139.68",
+						"top":"380.96",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"можливості",
+						"width":"21.06",
+						"height":"3.68",
+						"left":"142.99",
+						"top":"380.96",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"можна",
+						"width":"11.96",
+						"height":"3.68",
+						"left":"165.15",
+						"top":"380.96",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"дізнатися",
+						"width":"17.52",
+						"height":"3.68",
+						"left":"178.22",
+						"top":"380.96",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"на",
+						"width":"4.41",
+						"height":"3.68",
+						"left":"196.84",
+						"top":"380.96",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"офіційному",
+						"width":"20.91",
+						"height":"3.68",
+						"left":"202.35",
+						"top":"380.96",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"сайті",
+						"width":"9.12",
+						"height":"3.68",
+						"left":"224.36",
+						"top":"380.96",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"Factually",
+						"width":"15.9",
+						"height":"3.68",
+						"left":"234.59",
+						"top":"380.96",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"Health.",
+						"width":"12.59",
+						"height":"3.68",
+						"left":"251.59",
+						"top":"380.96",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					}]
+				}]
+			}]
+		},
+		{
+			"paragraphs": [
+			{
+				"lines": [
+				{
+					"words": [					{
+						"text":"Modules",
+						"width":"16.11",
+						"height":"3.6799999999999",
+						"left":"51.32",
+						"top":"374.6",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					}]
+				}]
+			}]
+		},
+		{
+			"paragraphs": [
+			{
+				"lines": [
+				{
+					"words": [					{
+						"text":"Features/Epics",
+						"width":"28.27",
+						"height":"3.6799999999999",
+						"left":"82.21",
+						"top":"374.6",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"Comments",
+						"width":"20.54",
+						"height":"3.6799999999999",
+						"left":"113.11",
+						"top":"374.6",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					}]
+				}]
+			}]
+		},
+		{
+			"paragraphs": [
+			{
+				"lines": [
+				{
+					"words": [					{
+						"text":"Min",
+						"width":"6.84",
+						"height":"3.6799999999999",
+						"left":"144.01",
+						"top":"374.6",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					}]
+				}]
+			}]
+		},
+		{
+			"paragraphs": [
+			{
+				"lines": [
+				{
+					"words": [					{
+						"text":"Most",
+						"width":"9.28",
+						"height":"3.6799999999999",
+						"left":"174.9",
+						"top":"374.6",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"likely",
+						"width":"9.94",
+						"height":"3.6799999999999",
+						"left":"185.28",
+						"top":"374.6",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					}]
+				}]
+			}]
+		},
+		{
+			"paragraphs": [
+			{
+				"lines": [
+				{
+					"words": [					{
+						"text":"Maximum",
+						"width":"18.33",
+						"height":"3.6799999999999",
+						"left":"205.8",
+						"top":"374.6",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					}]
+				}]
+			}]
+		},
+		{
+			"paragraphs": [
+			{
+				"lines": [
+				{
+					"words": [					{
+						"text":"PERT",
+						"width":"10.6",
+						"height":"3.6799999999999",
+						"left":"236.69",
+						"top":"374.6",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					}]
+				}]
+			}]
+		},
+		{
+			"paragraphs": [
+			{
+				"lines": [
+				{
+					"words": [					{
+						"text":"Portal",
+						"width":"11.26",
+						"height":"3.68",
+						"left":"51.32",
+						"top":"368.17",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"Design",
+						"width":"13.24",
+						"height":"3.68",
+						"left":"63.68",
+						"top":"368.17",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					}]
+				},
+				{
+					"words": [					{
+						"text":"Design",
+						"width":"12.37",
+						"height":"3.69",
+						"left":"51.32",
+						"top":"363.29",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"concept",
+						"width":"13.93",
+						"height":"3.69",
+						"left":"64.79",
+						"top":"363.29",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					}]
+				}]
+			},
+			{
+				"lines": [
+				{
+					"words": [					{
+						"text":"High",
+						"width":"8.17",
+						"height":"3.68",
+						"left":"51.32",
+						"top":"356.84",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"Fidelity",
+						"width":"12.58",
+						"height":"3.68",
+						"left":"60.6",
+						"top":"356.84",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					}]
+				},
+				{
+					"words": [					{
+						"text":"Wireframes",
+						"width":"20.31",
+						"height":"3.68",
+						"left":"51.32",
+						"top":"352.27",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					}]
+				}]
+			}]
+		},
+		{
+			"paragraphs": [
+			{
+				"lines": [
+				{
+					"words": [					{
+						"text":"Moodboard",
+						"width":"20.12",
+						"height":"3.68",
+						"left":"82.21",
+						"top":"361.75",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					}]
+				},
+				{
+					"words": [					{
+						"text":"Pre-query",
+						"width":"17.46",
+						"height":"3.68",
+						"left":"82.21",
+						"top":"356.84",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					}]
+				},
+				{
+					"words": [					{
+						"text":"chat/AI",
+						"width":"12.37",
+						"height":"3.68",
+						"left":"82.21",
+						"top":"352.27",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"agent",
+						"width":"9.94",
+						"height":"3.68",
+						"left":"95.68",
+						"top":"352.27",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					}]
+				},
+				{
+					"words": [					{
+						"text":"Post-query",
+						"width":"19.22",
+						"height":"3.68",
+						"left":"82.21",
+						"top":"347.36",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					}]
+				},
+				{
+					"words": [					{
+						"text":"chat/AI",
+						"width":"12.37",
+						"height":"3.6900000000001",
+						"left":"82.21",
+						"top":"342.78",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"agent",
+						"width":"9.94",
+						"height":"3.6900000000001",
+						"left":"95.68",
+						"top":"342.78",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					}]
+				}]
+			}]
+		},
+		{
+			"paragraphs": [
+			{
+				"lines": [
+				{
+					"words": [					{
+						"text":"4",
+						"width":"2.21",
+						"height":"3.68",
+						"left":"170.55",
+						"top":"361.75",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					}]
+				}]
+			}]
+		},
+		{
+			"paragraphs": [
+			{
+				"lines": [
+				{
+					"words": [					{
+						"text":"6",
+						"width":"2.21",
+						"height":"3.68",
+						"left":"201.45",
+						"top":"361.75",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					}]
+				}]
+			}]
+		},
+		{
+			"paragraphs": [
+			{
+				"lines": [
+				{
+					"words": [					{
+						"text":"8",
+						"width":"2.21",
+						"height":"3.68",
+						"left":"232.34",
+						"top":"361.75",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					}]
+				}]
+			}]
+		},
+		{
+			"paragraphs": [
+			{
+				"lines": [
+				{
+					"words": [					{
+						"text":"6",
+						"width":"2.21",
+						"height":"3.68",
+						"left":"263.24",
+						"top":"361.75",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					}]
+				}]
+			}]
+		},
+		{
+			"paragraphs": [
+			{
+				"lines": [
+				{
+					"words": [					{
+						"text":"15",
+						"width":"4.42",
+						"height":"3.68",
+						"left":"168.34",
+						"top":"352.27",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					}]
+				}]
+			}]
+		},
+		{
+			"paragraphs": [
+			{
+				"lines": [
+				{
+					"words": [					{
+						"text":"18",
+						"width":"4.43",
+						"height":"3.68",
+						"left":"199.23",
+						"top":"352.27",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					}]
+				}]
+			}]
+		},
+		{
+			"paragraphs": [
+			{
+				"lines": [
+				{
+					"words": [					{
+						"text":"20",
+						"width":"4.42",
+						"height":"3.68",
+						"left":"230.13",
+						"top":"352.27",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					}]
+				}]
+			}]
+		},
+		{
+			"paragraphs": [
+			{
+				"lines": [
+				{
+					"words": [					{
+						"text":"18",
+						"width":"4.42",
+						"height":"3.68",
+						"left":"261.03",
+						"top":"352.27",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					}]
+				}]
+			}]
+		},
+		{
+			"paragraphs": [
+			{
+				"lines": [
+				{
+					"words": [					{
+						"text":"15",
+						"width":"4.42",
+						"height":"3.6900000000001",
+						"left":"168.34",
+						"top":"342.78",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					}]
+				}]
+			}]
+		},
+		{
+			"paragraphs": [
+			{
+				"lines": [
+				{
+					"words": [					{
+						"text":"18",
+						"width":"4.43",
+						"height":"3.6900000000001",
+						"left":"199.23",
+						"top":"342.78",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					}]
+				}]
+			}]
+		},
+		{
+			"paragraphs": [
+			{
+				"lines": [
+				{
+					"words": [					{
+						"text":"20",
+						"width":"4.42",
+						"height":"3.6900000000001",
+						"left":"230.13",
+						"top":"342.78",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					}]
+				}]
+			}]
+		},
+		{
+			"paragraphs": [
+			{
+				"lines": [
+				{
+					"words": [					{
+						"text":"18",
+						"width":"4.42",
+						"height":"3.6900000000001",
+						"left":"261.03",
+						"top":"342.78",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					}]
+				}]
+			}]
+		},
+		{
+			"paragraphs": [
+			{
+				"lines": [
+				{
+					"words": [					{
+						"text":"Responsive",
+						"width":"20.77",
+						"height":"3.68",
+						"left":"51.32",
+						"top":"336.36",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					}]
+				}]
+			}]
+		},
+		{
+			"paragraphs": [
+			{
+				"lines": [
+				{
+					"words": [					{
+						"text":"11",
+						"width":"4.42",
+						"height":"3.68",
+						"left":"168.63",
+						"top":"336.36",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					}]
+				}]
+			}]
+		},
+		{
+			"paragraphs": [
+			{
+				"lines": [
+				{
+					"words": [					{
+						"text":"14",
+						"width":"4.43",
+						"height":"3.68",
+						"left":"199.23",
+						"top":"336.36",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					}]
+				}]
+			}]
+		},
+		{
+			"paragraphs": [
+			{
+				"lines": [
+				{
+					"words": [					{
+						"text":"18",
+						"width":"4.42",
+						"height":"3.68",
+						"left":"230.13",
+						"top":"336.36",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					}]
+				}]
+			}]
+		},
+		{
+			"paragraphs": [
+			{
+				"lines": [
+				{
+					"words": [					{
+						"text":"14",
+						"width":"4.42",
+						"height":"3.68",
+						"left":"261.03",
+						"top":"336.36",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					}]
+				}]
+			}]
+		},
+		{
+			"paragraphs": [
+			{
+				"lines": [
+				{
+					"words": [					{
+						"text":"Prototype",
+						"width":"17.01",
+						"height":"3.68",
+						"left":"51.32",
+						"top":"329.94",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					}]
+				}]
+			}]
+		},
+		{
+			"paragraphs": [
+			{
+				"lines": [
+				{
+					"words": [					{
+						"text":"Web",
+						"width":"8.18",
+						"height":"3.68",
+						"left":"82.21",
+						"top":"329.94",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					}]
+				}]
+			}]
+		},
+		{
+			"paragraphs": [
+			{
+				"lines": [
+				{
+					"words": [					{
+						"text":"4",
+						"width":"2.21",
+						"height":"3.68",
+						"left":"170.55",
+						"top":"329.94",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					}]
+				}]
+			}]
+		},
+		{
+			"paragraphs": [
+			{
+				"lines": [
+				{
+					"words": [					{
+						"text":"6",
+						"width":"2.21",
+						"height":"3.68",
+						"left":"201.45",
+						"top":"329.94",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					}]
+				}]
+			}]
+		},
+		{
+			"paragraphs": [
+			{
+				"lines": [
+				{
+					"words": [					{
+						"text":"8",
+						"width":"2.21",
+						"height":"3.68",
+						"left":"232.34",
+						"top":"329.94",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					}]
+				}]
+			}]
+		},
+		{
+			"paragraphs": [
+			{
+				"lines": [
+				{
+					"words": [					{
+						"text":"6",
+						"width":"2.21",
+						"height":"3.68",
+						"left":"263.24",
+						"top":"329.94",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					}]
+				}]
+			}]
+		},
+		{
+			"paragraphs": [
+			{
+				"lines": [
+				{
+					"words": [					{
+						"text":"TOTAL",
+						"width":"12.88",
+						"height":"3.68",
+						"left":"98.08",
+						"top":"323.51",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					}]
+				}]
+			}]
+		},
+		{
+			"paragraphs": [
+			{
+				"lines": [
+				{
+					"words": [					{
+						"text":"49",
+						"width":"4.42",
+						"height":"3.68",
+						"left":"168.34",
+						"top":"323.51",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					}]
+				}]
+			}]
+		},
+		{
+			"paragraphs": [
+			{
+				"lines": [
+				{
+					"words": [					{
+						"text":"62",
+						"width":"4.43",
+						"height":"3.68",
+						"left":"199.23",
+						"top":"323.51",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					}]
+				}]
+			}]
+		},
+		{
+			"paragraphs": [
+			{
+				"lines": [
+				{
+					"words": [					{
+						"text":"74",
+						"width":"4.42",
+						"height":"3.68",
+						"left":"230.13",
+						"top":"323.51",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					}]
+				}]
+			}]
+		},
+		{
+			"paragraphs": [
+			{
+				"lines": [
+				{
+					"words": [					{
+						"text":"62",
+						"width":"4.42",
+						"height":"3.68",
+						"left":"261.03",
+						"top":"323.51",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					}]
+				}]
+			}]
+		},
+		{
+			"paragraphs": [
+			{
+				"lines": [
+				{
+					"words": [					{
+						"text":"Design",
+						"width":"13.24",
+						"height":"3.68",
+						"left":"51.32",
+						"top":"317.09",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"System",
+						"width":"14.14",
+						"height":"3.68",
+						"left":"65.67",
+						"top":"317.09",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					}]
+				}]
+			}]
+		},
+		{
+			"paragraphs": [
+			{
+				"lines": [
+				{
+					"words": [					{
+						"text":"Desops",
+						"width":"13.48",
+						"height":"3.69",
+						"left":"51.32",
+						"top":"310.66",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					}]
+				}]
+			}]
+		},
+		{
+			"paragraphs": [
+			{
+				"lines": [
+				{
+					"words": [					{
+						"text":"Design",
+						"width":"12.38",
+						"height":"3.69",
+						"left":"82.21",
+						"top":"310.66",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"documen",
+						"width":"16.36",
+						"height":"3.69",
+						"left":"95.69",
+						"top":"310.66",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"Creation",
+						"width":"15.02",
+						"height":"3.69",
+						"left":"113.11",
+						"top":"310.66",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"&",
+						"width":"2.64",
+						"height":"3.69",
+						"left":"129.24",
+						"top":"310.66",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"neutral",
+						"angle":"0"
+					},
+					{
+						"text":"maint",
+						"width":"9.71",
+						"height":"3.69",
+						"left":"132.99",
+						"top":"310.66",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					}]
+				}]
+			}]
+		},
+		{
+			"paragraphs": [
+			{
+				"lines": [
+				{
+					"words": [					{
+						"text":"6",
+						"width":"2.21",
+						"height":"3.69",
+						"left":"170.55",
+						"top":"310.66",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					}]
+				}]
+			}]
+		},
+		{
+			"paragraphs": [
+			{
+				"lines": [
+				{
+					"words": [					{
+						"text":"8",
+						"width":"2.21",
+						"height":"3.69",
+						"left":"201.45",
+						"top":"310.66",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					}]
+				}]
+			}]
+		},
+		{
+			"paragraphs": [
+			{
+				"lines": [
+				{
+					"words": [					{
+						"text":"12",
+						"width":"4.42",
+						"height":"3.69",
+						"left":"230.13",
+						"top":"310.66",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					}]
+				}]
+			}]
+		},
+		{
+			"paragraphs": [
+			{
+				"lines": [
+				{
+					"words": [					{
+						"text":"8",
+						"width":"2.21",
+						"height":"3.69",
+						"left":"263.24",
+						"top":"310.66",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					}]
+				}]
+			}]
+		},
+		{
+			"paragraphs": [
+			{
+				"lines": [
+				{
+					"words": [					{
+						"text":"TOTAL",
+						"width":"12.88",
+						"height":"3.68",
+						"left":"98.08",
+						"top":"304.24",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					}]
+				},
+				{
+					"words": [					{
+						"text":"Total",
+						"width":"9.35",
+						"height":"3.68",
+						"left":"84.38",
+						"top":"299.33",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"Product",
+						"width":"15",
+						"height":"3.68",
+						"left":"94.83",
+						"top":"299.33",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					}]
+				}]
+			},
+			{
+				"lines": [
+				{
+					"words": [					{
+						"text":"Design",
+						"width":"13.25",
+						"height":"3.68",
+						"left":"97.71",
+						"top":"294.76",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					}]
+				}]
+			}]
+		},
+		{
+			"paragraphs": [
+			{
+				"lines": [
+				{
+					"words": [					{
+						"text":"6",
+						"width":"2.21",
+						"height":"3.68",
+						"left":"170.55",
+						"top":"304.24",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					}]
+				}]
+			}]
+		},
+		{
+			"paragraphs": [
+			{
+				"lines": [
+				{
+					"words": [					{
+						"text":"8",
+						"width":"2.21",
+						"height":"3.68",
+						"left":"201.45",
+						"top":"304.24",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					}]
+				}]
+			}]
+		},
+		{
+			"paragraphs": [
+			{
+				"lines": [
+				{
+					"words": [					{
+						"text":"12",
+						"width":"4.42",
+						"height":"3.68",
+						"left":"230.13",
+						"top":"304.24",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					}]
+				}]
+			}]
+		},
+		{
+			"paragraphs": [
+			{
+				"lines": [
+				{
+					"words": [					{
+						"text":"8",
+						"width":"2.21",
+						"height":"3.68",
+						"left":"263.24",
+						"top":"304.24",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					}]
+				}]
+			}]
+		},
+		{
+			"paragraphs": [
+			{
+				"lines": [
+				{
+					"words": [					{
+						"text":"55",
+						"width":"4.42",
+						"height":"3.68",
+						"left":"168.34",
+						"top":"294.76",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					}]
+				}]
+			}]
+		},
+		{
+			"paragraphs": [
+			{
+				"lines": [
+				{
+					"words": [					{
+						"text":"70",
+						"width":"4.43",
+						"height":"3.68",
+						"left":"199.23",
+						"top":"294.76",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					}]
+				}]
+			}]
+		},
+		{
+			"paragraphs": [
+			{
+				"lines": [
+				{
+					"words": [					{
+						"text":"86",
+						"width":"4.42",
+						"height":"3.68",
+						"left":"230.13",
+						"top":"294.76",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					}]
+				}]
+			}]
+		},
+		{
+			"paragraphs": [
+			{
+				"lines": [
+				{
+					"words": [					{
+						"text":"70",
+						"width":"4.42",
+						"height":"3.68",
+						"left":"261.03",
+						"top":"294.76",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					}]
+				}]
+			}]
+		},
+		{
+			"paragraphs": [
+			{
+				"lines": [
+				{
+					"words": [					{
+						"text":"Total",
+						"width":"9.34",
+						"height":"3.68",
+						"left":"87.7",
+						"top":"288.33",
+						"color":"#ff0000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"BA/PM",
+						"width":"12.81",
+						"height":"3.68",
+						"left":"98.14",
+						"top":"288.33",
+						"color":"#ff0000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					}]
+				},
+				{
+					"words": [					{
+						"text":"TOTAL",
+						"width":"15.45",
+						"height":"4.41",
+						"left":"94.27",
+						"top":"282.48",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"5",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					}]
+				}]
+			},
+			{
+				"lines": [
+				{
+					"words": [					{
+						"text":"PROJECT",
+						"width":"22.52",
+						"height":"4.42",
+						"left":"87.11",
+						"top":"276.99",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"5",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					}]
+				},
+				{
+					"words": [					{
+						"text":"(hours)",
+						"width":"16.42",
+						"height":"4.41",
+						"left":"94.54",
+						"top":"271.51",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"5",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					}]
+				},
+				{
+					"words": [					{
+						"text":"TOTAL",
+						"width":"15.45",
+						"height":"4.41",
+						"left":"94.27",
+						"top":"265.66",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"5",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					}]
+				}]
+			},
+			{
+				"lines": [
+				{
+					"words": [					{
+						"text":"PROJECT",
+						"width":"22.52",
+						"height":"4.41",
+						"left":"87.11",
+						"top":"260.17",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"5",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					}]
+				},
+				{
+					"words": [					{
+						"text":"COST",
+						"width":"13.25",
+						"height":"4.42",
+						"left":"96.39",
+						"top":"254.68",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"5",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					}]
+				}]
+			}]
+		},
+		{
+			"paragraphs": [
+			{
+				"lines": [
+				{
+					"words": [					{
+						"text":"11",
+						"width":"4.42",
+						"height":"3.68",
+						"left":"168.63",
+						"top":"288.33",
+						"color":"#ff0000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					}]
+				},
+				{
+					"words": [					{
+						"text":"66",
+						"width":"5.31",
+						"height":"4.41",
+						"left":"167.45",
+						"top":"271.51",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"5",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					}]
+				},
+				{
+					"words": [					{
+						"text":"$3",
+						"width":"5.31",
+						"height":"4.42",
+						"left":"158.17",
+						"top":"254.68",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"5",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"300",
+						"width":"7.96",
+						"height":"4.42",
+						"left":"164.8",
+						"top":"254.68",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"5",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					}]
+				}]
+			}]
+		},
+		{
+			"paragraphs": [
+			{
+				"lines": [
+				{
+					"words": [					{
+						"text":"14",
+						"width":"4.43",
+						"height":"3.68",
+						"left":"199.23",
+						"top":"288.33",
+						"color":"#ff0000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					}]
+				},
+				{
+					"words": [					{
+						"text":"84",
+						"width":"5.31",
+						"height":"4.41",
+						"left":"198.35",
+						"top":"271.51",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"5",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					}]
+				},
+				{
+					"words": [					{
+						"text":"$4",
+						"width":"5.3",
+						"height":"4.42",
+						"left":"189.07",
+						"top":"254.68",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"5",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"200",
+						"width":"7.96",
+						"height":"4.42",
+						"left":"195.7",
+						"top":"254.68",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"5",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					}]
+				}]
+			}]
+		},
+		{
+			"paragraphs": [
+			{
+				"lines": [
+				{
+					"words": [					{
+						"text":"17",
+						"width":"4.42",
+						"height":"3.68",
+						"left":"230.13",
+						"top":"288.33",
+						"color":"#ff0000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					}]
+				},
+				{
+					"words": [					{
+						"text":"103",
+						"width":"7.96",
+						"height":"4.41",
+						"left":"226.59",
+						"top":"271.51",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"5",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					}]
+				},
+				{
+					"words": [					{
+						"text":"$5",
+						"width":"5.31",
+						"height":"4.42",
+						"left":"219.96",
+						"top":"254.68",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"5",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"160",
+						"width":"7.96",
+						"height":"4.42",
+						"left":"226.59",
+						"top":"254.68",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"5",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					}]
+				}]
+			}]
+		},
+		{
+			"paragraphs": [
+			{
+				"lines": [
+				{
+					"words": [					{
+						"text":"14",
+						"width":"4.42",
+						"height":"3.68",
+						"left":"261.03",
+						"top":"288.33",
+						"color":"#ff0000",
+						"fontName":"Times New Roman",
+						"fontSize":"4",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					}]
+				},
+				{
+					"words": [					{
+						"text":"84",
+						"width":"5.31",
+						"height":"4.41",
+						"left":"260.14",
+						"top":"271.51",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"5",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					}]
+				},
+				{
+					"words": [					{
+						"text":"$4",
+						"width":"5.31",
+						"height":"4.42",
+						"left":"250.86",
+						"top":"254.68",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"5",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"210",
+						"width":"7.96",
+						"height":"4.42",
+						"left":"257.49",
+						"top":"254.68",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"5",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					}]
+				}]
+			}]
+		}],
+		"fills": [
+		{
+			"rule":"nzwn",
+			"color":"#ffffff",
+			"path": {
+				"subpaths": [
+				{
+					"closed":"true",
+					"points": ["moveto,50.4,541","lineto,791.91,541","lineto,791.91,374.28","lineto,50.4,374.28","lineto,50.4,541"]
+				}]
+			}
+		},{
+			"rule":"nzwn",
+			"color":"#ffffff",
+			"path": {
+				"subpaths": [
+				{
+					"closed":"true",
+					"points": ["moveto,266.67,374.28","lineto,791.91,374.28","lineto,791.91,367.86","lineto,266.67,367.86","lineto,266.67,374.28"]
+				}]
+			}
+		},{
+			"rule":"nzwn",
+			"color":"#ffffff",
+			"path": {
+				"subpaths": [
+				{
+					"closed":"true",
+					"points": ["moveto,50.4,367.86","lineto,791.91,367.86","lineto,791.91,336.05","lineto,50.4,336.05","lineto,50.4,367.86"]
+				}]
+			}
+		},{
+			"rule":"nzwn",
+			"color":"#ffffff",
+			"path": {
+				"subpaths": [
+				{
+					"closed":"true",
+					"points": ["moveto,50.4,336.05","lineto,81.3,336.05","lineto,81.3,329.62","lineto,50.4,329.62","lineto,50.4,336.05"]
+				}]
+			}
+		},{
+			"rule":"nzwn",
+			"color":"#ffffff",
+			"path": {
+				"subpaths": [
+				{
+					"closed":"true",
+					"points": ["moveto,112.19,336.05","lineto,791.91,336.05","lineto,791.91,329.62","lineto,112.19,329.62","lineto,112.19,336.05"]
+				}]
+			}
+		},{
+			"rule":"nzwn",
+			"color":"#ffffff",
+			"path": {
+				"subpaths": [
+				{
+					"closed":"true",
+					"points": ["moveto,266.67,329.62","lineto,791.91,329.62","lineto,791.91,323.2","lineto,266.67,323.2","lineto,266.67,329.62"]
+				}]
+			}
+		},{
+			"rule":"nzwn",
+			"color":"#ffffff",
+			"path": {
+				"subpaths": [
+				{
+					"closed":"true",
+					"points": ["moveto,266.67,323.2","lineto,791.91,323.2","lineto,791.91,316.77","lineto,266.67,316.77","lineto,266.67,323.2"]
+				}]
+			}
+		},{
+			"rule":"nzwn",
+			"color":"#ffffff",
+			"path": {
+				"subpaths": [
+				{
+					"closed":"true",
+					"points": ["moveto,50.4,316.77","lineto,791.91,316.77","lineto,791.91,310.35","lineto,50.4,310.35","lineto,50.4,316.77"]
+				}]
+			}
+		},{
+			"rule":"nzwn",
+			"color":"#ffffff",
+			"path": {
+				"subpaths": [
+				{
+					"closed":"true",
+					"points": ["moveto,266.67,310.35","lineto,791.91,310.35","lineto,791.91,303.93","lineto,266.67,303.93","lineto,266.67,310.35"]
+				}]
+			}
+		},{
+			"rule":"nzwn",
+			"color":"#ffffff",
+			"path": {
+				"subpaths": [
+				{
+					"closed":"true",
+					"points": ["moveto,50.4,303.93","lineto,791.91,303.93","lineto,791.91,254.37","lineto,50.4,254.37","lineto,50.4,303.93"]
+				}]
+			}
+		},{
+			"rule":"nzwn",
+			"color":"#d9d1e8",
+			"path": {
+				"subpaths": [
+				{
+					"closed":"true",
+					"points": ["moveto,50.09,374.59","lineto,266.67,374.59","lineto,266.67,367.86","lineto,50.09,367.86","lineto,50.09,374.59"]
+				}]
+			}
+		},{
+			"rule":"nzwn",
+			"color":"#ffffff",
+			"path": {
+				"subpaths": [
+				{
+					"closed":"true",
+					"points": ["moveto,80.99,336.35","lineto,112.19,336.35","lineto,112.19,329.62","lineto,80.99,329.62","lineto,80.99,336.35"]
+				}]
+			}
+		},{
+			"rule":"nzwn",
+			"color":"#eeeeee",
+			"path": {
+				"subpaths": [
+				{
+					"closed":"true",
+					"points": ["moveto,50.09,329.93","lineto,266.67,329.93","lineto,266.67,323.2","lineto,50.09,323.2","lineto,50.09,329.93"]
+				}]
+			}
+		},{
+			"rule":"nzwn",
+			"color":"#d9d1e8",
+			"path": {
+				"subpaths": [
+				{
+					"closed":"true",
+					"points": ["moveto,50.09,323.5","lineto,266.67,323.5","lineto,266.67,316.77","lineto,50.09,316.77","lineto,50.09,323.5"]
+				}]
+			}
+		},{
+			"rule":"nzwn",
+			"color":"#eeeeee",
+			"path": {
+				"subpaths": [
+				{
+					"closed":"true",
+					"points": ["moveto,50.09,310.66","lineto,266.67,310.66","lineto,266.67,303.93","lineto,50.09,303.93","lineto,50.09,310.66"]
+				}]
+			}
+		},{
+			"rule":"nzwn",
+			"color":"#000000",
+			"path": {
+				"subpaths": [
+				{
+					"closed":"true",
+					"points": ["moveto,50.4,541","lineto,50.4,541","lineto,50.4,381.01","lineto,50.09,381.01","lineto,50.09,541","lineto,50.4,541"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,50.4,380.71","lineto,50.4,380.71","lineto,50.4,374.59","lineto,50.09,374.59","lineto,50.09,380.71","lineto,50.4,380.71"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,50.4,303.93","lineto,50.4,303.93","lineto,50.4,294.75","lineto,50.09,294.75","lineto,50.09,303.93","lineto,50.4,303.93"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,50.4,294.44","lineto,50.4,294.44","lineto,50.4,288.33","lineto,50.09,288.33","lineto,50.09,294.44","lineto,50.4,294.44"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,50.4,288.02","lineto,50.4,288.02","lineto,50.4,271.5","lineto,50.09,271.5","lineto,50.09,288.02","lineto,50.4,288.02"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,50.4,271.19","lineto,50.4,271.19","lineto,50.4,254.68","lineto,50.09,254.68","lineto,50.09,271.19","lineto,50.4,271.19"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,81.3,541","lineto,81.3,541","lineto,81.3,381.01","lineto,80.99,381.01","lineto,80.99,541","lineto,81.3,541"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,81.3,380.71","lineto,81.3,380.71","lineto,81.3,374.59","lineto,80.99,374.59","lineto,80.99,380.71","lineto,81.3,380.71"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,81.3,303.93","lineto,81.3,303.93","lineto,81.3,294.75","lineto,80.99,294.75","lineto,80.99,303.93","lineto,81.3,303.93"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,50.09,288.33","lineto,50.09,288.33","lineto,80.99,288.33","lineto,80.99,288.02","lineto,50.09,288.02","lineto,50.09,288.33"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,81.3,294.44","lineto,81.3,294.44","lineto,81.3,288.33","lineto,80.99,288.33","lineto,80.99,294.44","lineto,81.3,294.44"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,81.3,288.02","lineto,81.3,288.02","lineto,81.3,271.5","lineto,80.99,271.5","lineto,80.99,288.02","lineto,81.3,288.02"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,50.09,254.68","lineto,50.09,254.68","lineto,80.99,254.68","lineto,80.99,254.37","lineto,50.09,254.37","lineto,50.09,254.68"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,81.3,271.19","lineto,81.3,271.19","lineto,81.3,254.68","lineto,80.99,254.68","lineto,80.99,271.19","lineto,81.3,271.19"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,112.19,380.71","lineto,112.19,380.71","lineto,112.19,374.59","lineto,111.89,374.59","lineto,111.89,380.71","lineto,112.19,380.71"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,112.19,329.62","lineto,112.19,329.62","lineto,112.19,323.5","lineto,111.89,323.5","lineto,111.89,329.62","lineto,112.19,329.62"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,112.19,310.35","lineto,112.19,310.35","lineto,112.19,304.23","lineto,111.89,304.23","lineto,111.89,310.35","lineto,112.19,310.35"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,112.19,303.93","lineto,112.19,303.93","lineto,112.19,294.75","lineto,111.89,294.75","lineto,111.89,303.93","lineto,112.19,303.93"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,112.19,294.44","lineto,112.19,294.44","lineto,112.19,288.33","lineto,111.89,288.33","lineto,111.89,294.44","lineto,112.19,294.44"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,112.19,288.02","lineto,112.19,288.02","lineto,112.19,271.5","lineto,111.89,271.5","lineto,111.89,288.02","lineto,112.19,288.02"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,112.19,271.19","lineto,112.19,271.19","lineto,112.19,254.68","lineto,111.89,254.68","lineto,111.89,271.19","lineto,112.19,271.19"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,50.09,381.01","lineto,50.09,381.01","lineto,142.78,381.01","lineto,142.78,380.71","lineto,50.09,380.71","lineto,50.09,381.01"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,143.09,303.93","lineto,143.09,303.93","lineto,143.09,294.75","lineto,142.78,294.75","lineto,142.78,303.93","lineto,143.09,303.93"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,112.19,288.33","lineto,112.19,288.33","lineto,142.78,288.33","lineto,142.78,288.02","lineto,112.19,288.02","lineto,112.19,288.33"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,143.09,294.44","lineto,143.09,294.44","lineto,143.09,288.33","lineto,142.78,288.33","lineto,142.78,294.44","lineto,143.09,294.44"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,143.09,288.02","lineto,143.09,288.02","lineto,143.09,271.5","lineto,142.78,271.5","lineto,142.78,288.02","lineto,143.09,288.02"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,112.19,254.68","lineto,112.19,254.68","lineto,142.78,254.68","lineto,142.78,254.37","lineto,112.19,254.37","lineto,112.19,254.68"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,143.09,271.19","lineto,143.09,271.19","lineto,143.09,254.68","lineto,142.78,254.68","lineto,142.78,271.19","lineto,143.09,271.19"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,173.98,303.93","lineto,173.98,303.93","lineto,173.98,294.75","lineto,173.68,294.75","lineto,173.68,303.93","lineto,173.98,303.93"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,173.98,294.44","lineto,173.98,294.44","lineto,173.98,288.33","lineto,173.68,288.33","lineto,173.68,294.44","lineto,173.98,294.44"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,173.98,288.02","lineto,173.98,288.02","lineto,173.98,271.5","lineto,173.68,271.5","lineto,173.68,288.02","lineto,173.98,288.02"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,173.98,271.19","lineto,173.98,271.19","lineto,173.98,254.68","lineto,173.68,254.68","lineto,173.68,271.19","lineto,173.98,271.19"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,204.88,303.93","lineto,204.88,303.93","lineto,204.88,294.75","lineto,204.57,294.75","lineto,204.57,303.93","lineto,204.88,303.93"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,204.88,294.44","lineto,204.88,294.44","lineto,204.88,288.33","lineto,204.57,288.33","lineto,204.57,294.44","lineto,204.88,294.44"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,204.88,288.02","lineto,204.88,288.02","lineto,204.88,271.5","lineto,204.57,271.5","lineto,204.57,288.02","lineto,204.88,288.02"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,204.88,271.19","lineto,204.88,271.19","lineto,204.88,254.68","lineto,204.57,254.68","lineto,204.57,271.19","lineto,204.88,271.19"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,235.78,303.93","lineto,235.78,303.93","lineto,235.78,294.75","lineto,235.47,294.75","lineto,235.47,303.93","lineto,235.78,303.93"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,235.78,294.44","lineto,235.78,294.44","lineto,235.78,288.33","lineto,235.47,288.33","lineto,235.47,294.44","lineto,235.78,294.44"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,235.78,288.02","lineto,235.78,288.02","lineto,235.78,271.5","lineto,235.47,271.5","lineto,235.47,288.02","lineto,235.78,288.02"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,235.78,271.19","lineto,235.78,271.19","lineto,235.78,254.68","lineto,235.47,254.68","lineto,235.47,271.19","lineto,235.78,271.19"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,266.67,310.35","lineto,266.67,310.35","lineto,266.67,304.23","lineto,266.37,304.23","lineto,266.37,310.35","lineto,266.67,310.35"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,266.67,303.93","lineto,266.67,303.93","lineto,266.67,294.75","lineto,266.37,294.75","lineto,266.37,303.93","lineto,266.67,303.93"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,266.67,294.44","lineto,266.67,294.44","lineto,266.67,288.33","lineto,266.37,288.33","lineto,266.37,294.44","lineto,266.67,294.44"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,266.67,288.02","lineto,266.67,288.02","lineto,266.67,271.5","lineto,266.37,271.5","lineto,266.37,288.02","lineto,266.67,288.02"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,266.67,271.19","lineto,266.67,271.19","lineto,266.67,254.68","lineto,266.37,254.68","lineto,266.37,271.19","lineto,266.67,271.19"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,297.57,380.71","lineto,297.57,380.71","lineto,297.57,374.59","lineto,297.26,374.59","lineto,297.26,380.71","lineto,297.57,380.71"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,297.57,374.28","lineto,297.57,374.28","lineto,297.57,368.17","lineto,297.26,368.17","lineto,297.26,374.28","lineto,297.57,374.28"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,297.57,367.86","lineto,297.57,367.86","lineto,297.57,361.74","lineto,297.26,361.74","lineto,297.26,367.86","lineto,297.57,367.86"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,297.57,361.44","lineto,297.57,361.44","lineto,297.57,352.26","lineto,297.26,352.26","lineto,297.26,361.44","lineto,297.57,361.44"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,297.57,351.95","lineto,297.57,351.95","lineto,297.57,342.78","lineto,297.26,342.78","lineto,297.26,351.95","lineto,297.57,351.95"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,297.57,342.47","lineto,297.57,342.47","lineto,297.57,336.35","lineto,297.26,336.35","lineto,297.26,342.47","lineto,297.57,342.47"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,297.57,336.05","lineto,297.57,336.05","lineto,297.57,329.93","lineto,297.26,329.93","lineto,297.26,336.05","lineto,297.57,336.05"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,297.57,329.62","lineto,297.57,329.62","lineto,297.57,323.5","lineto,297.26,323.5","lineto,297.26,329.62","lineto,297.57,329.62"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,297.57,323.2","lineto,297.57,323.2","lineto,297.57,317.08","lineto,297.26,317.08","lineto,297.26,323.2","lineto,297.57,323.2"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,297.57,316.77","lineto,297.57,316.77","lineto,297.57,310.66","lineto,297.26,310.66","lineto,297.26,316.77","lineto,297.57,316.77"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,297.57,310.35","lineto,297.57,310.35","lineto,297.57,304.23","lineto,297.26,304.23","lineto,297.26,310.35","lineto,297.57,310.35"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,297.57,303.93","lineto,297.57,303.93","lineto,297.57,294.75","lineto,297.26,294.75","lineto,297.26,303.93","lineto,297.57,303.93"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,297.57,294.44","lineto,297.57,294.44","lineto,297.57,288.33","lineto,297.26,288.33","lineto,297.26,294.44","lineto,297.57,294.44"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,297.57,288.02","lineto,297.57,288.02","lineto,297.57,271.5","lineto,297.26,271.5","lineto,297.26,288.02","lineto,297.57,288.02"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,297.57,271.19","lineto,297.57,271.19","lineto,297.57,254.68","lineto,297.26,254.68","lineto,297.26,271.19","lineto,297.57,271.19"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,328.46,380.71","lineto,328.46,380.71","lineto,328.46,374.59","lineto,328.16,374.59","lineto,328.16,380.71","lineto,328.46,380.71"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,328.46,374.28","lineto,328.46,374.28","lineto,328.46,368.17","lineto,328.16,368.17","lineto,328.16,374.28","lineto,328.46,374.28"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,328.46,367.86","lineto,328.46,367.86","lineto,328.46,361.74","lineto,328.16,361.74","lineto,328.16,367.86","lineto,328.46,367.86"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,328.46,361.44","lineto,328.46,361.44","lineto,328.46,352.26","lineto,328.16,352.26","lineto,328.16,361.44","lineto,328.46,361.44"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,328.46,351.95","lineto,328.46,351.95","lineto,328.46,342.78","lineto,328.16,342.78","lineto,328.16,351.95","lineto,328.46,351.95"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,328.46,342.47","lineto,328.46,342.47","lineto,328.46,336.35","lineto,328.16,336.35","lineto,328.16,342.47","lineto,328.46,342.47"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,328.46,336.05","lineto,328.46,336.05","lineto,328.46,329.93","lineto,328.16,329.93","lineto,328.16,336.05","lineto,328.46,336.05"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,328.46,329.62","lineto,328.46,329.62","lineto,328.46,323.5","lineto,328.16,323.5","lineto,328.16,329.62","lineto,328.46,329.62"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,328.46,323.2","lineto,328.46,323.2","lineto,328.46,317.08","lineto,328.16,317.08","lineto,328.16,323.2","lineto,328.46,323.2"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,328.46,316.77","lineto,328.46,316.77","lineto,328.46,310.66","lineto,328.16,310.66","lineto,328.16,316.77","lineto,328.46,316.77"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,328.46,310.35","lineto,328.46,310.35","lineto,328.46,304.23","lineto,328.16,304.23","lineto,328.16,310.35","lineto,328.46,310.35"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,328.46,303.93","lineto,328.46,303.93","lineto,328.46,294.75","lineto,328.16,294.75","lineto,328.16,303.93","lineto,328.46,303.93"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,328.46,294.44","lineto,328.46,294.44","lineto,328.46,288.33","lineto,328.16,288.33","lineto,328.16,294.44","lineto,328.46,294.44"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,328.46,288.02","lineto,328.46,288.02","lineto,328.46,271.5","lineto,328.16,271.5","lineto,328.16,288.02","lineto,328.46,288.02"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,328.46,271.19","lineto,328.46,271.19","lineto,328.46,254.68","lineto,328.16,254.68","lineto,328.16,271.19","lineto,328.46,271.19"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,359.36,380.71","lineto,359.36,380.71","lineto,359.36,374.59","lineto,359.05,374.59","lineto,359.05,380.71","lineto,359.36,380.71"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,359.36,374.28","lineto,359.36,374.28","lineto,359.36,368.17","lineto,359.05,368.17","lineto,359.05,374.28","lineto,359.36,374.28"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,359.36,367.86","lineto,359.36,367.86","lineto,359.36,361.74","lineto,359.05,361.74","lineto,359.05,367.86","lineto,359.36,367.86"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,359.36,361.44","lineto,359.36,361.44","lineto,359.36,352.26","lineto,359.05,352.26","lineto,359.05,361.44","lineto,359.36,361.44"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,359.36,351.95","lineto,359.36,351.95","lineto,359.36,342.78","lineto,359.05,342.78","lineto,359.05,351.95","lineto,359.36,351.95"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,359.36,342.47","lineto,359.36,342.47","lineto,359.36,336.35","lineto,359.05,336.35","lineto,359.05,342.47","lineto,359.36,342.47"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,359.36,336.05","lineto,359.36,336.05","lineto,359.36,329.93","lineto,359.05,329.93","lineto,359.05,336.05","lineto,359.36,336.05"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,359.36,329.62","lineto,359.36,329.62","lineto,359.36,323.5","lineto,359.05,323.5","lineto,359.05,329.62","lineto,359.36,329.62"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,359.36,323.2","lineto,359.36,323.2","lineto,359.36,317.08","lineto,359.05,317.08","lineto,359.05,323.2","lineto,359.36,323.2"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,359.36,316.77","lineto,359.36,316.77","lineto,359.36,310.66","lineto,359.05,310.66","lineto,359.05,316.77","lineto,359.36,316.77"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,359.36,310.35","lineto,359.36,310.35","lineto,359.36,304.23","lineto,359.05,304.23","lineto,359.05,310.35","lineto,359.36,310.35"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,359.36,303.93","lineto,359.36,303.93","lineto,359.36,294.75","lineto,359.05,294.75","lineto,359.05,303.93","lineto,359.36,303.93"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,359.36,294.44","lineto,359.36,294.44","lineto,359.36,288.33","lineto,359.05,288.33","lineto,359.05,294.44","lineto,359.36,294.44"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,359.36,288.02","lineto,359.36,288.02","lineto,359.36,271.5","lineto,359.05,271.5","lineto,359.05,288.02","lineto,359.36,288.02"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,359.36,271.19","lineto,359.36,271.19","lineto,359.36,254.68","lineto,359.05,254.68","lineto,359.05,271.19","lineto,359.36,271.19"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,390.26,380.71","lineto,390.26,380.71","lineto,390.26,374.59","lineto,389.95,374.59","lineto,389.95,380.71","lineto,390.26,380.71"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,390.26,374.28","lineto,390.26,374.28","lineto,390.26,368.17","lineto,389.95,368.17","lineto,389.95,374.28","lineto,390.26,374.28"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,390.26,367.86","lineto,390.26,367.86","lineto,390.26,361.74","lineto,389.95,361.74","lineto,389.95,367.86","lineto,390.26,367.86"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,390.26,361.44","lineto,390.26,361.44","lineto,390.26,352.26","lineto,389.95,352.26","lineto,389.95,361.44","lineto,390.26,361.44"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,390.26,351.95","lineto,390.26,351.95","lineto,390.26,342.78","lineto,389.95,342.78","lineto,389.95,351.95","lineto,390.26,351.95"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,390.26,342.47","lineto,390.26,342.47","lineto,390.26,336.35","lineto,389.95,336.35","lineto,389.95,342.47","lineto,390.26,342.47"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,390.26,336.05","lineto,390.26,336.05","lineto,390.26,329.93","lineto,389.95,329.93","lineto,389.95,336.05","lineto,390.26,336.05"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,390.26,329.62","lineto,390.26,329.62","lineto,390.26,323.5","lineto,389.95,323.5","lineto,389.95,329.62","lineto,390.26,329.62"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,390.26,323.2","lineto,390.26,323.2","lineto,390.26,317.08","lineto,389.95,317.08","lineto,389.95,323.2","lineto,390.26,323.2"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,390.26,316.77","lineto,390.26,316.77","lineto,390.26,310.66","lineto,389.95,310.66","lineto,389.95,316.77","lineto,390.26,316.77"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,390.26,310.35","lineto,390.26,310.35","lineto,390.26,304.23","lineto,389.95,304.23","lineto,389.95,310.35","lineto,390.26,310.35"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,390.26,303.93","lineto,390.26,303.93","lineto,390.26,294.75","lineto,389.95,294.75","lineto,389.95,303.93","lineto,390.26,303.93"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,390.26,294.44","lineto,390.26,294.44","lineto,390.26,288.33","lineto,389.95,288.33","lineto,389.95,294.44","lineto,390.26,294.44"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,390.26,288.02","lineto,390.26,288.02","lineto,390.26,271.5","lineto,389.95,271.5","lineto,389.95,288.02","lineto,390.26,288.02"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,390.26,271.19","lineto,390.26,271.19","lineto,390.26,254.68","lineto,389.95,254.68","lineto,389.95,271.19","lineto,390.26,271.19"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,421.15,380.71","lineto,421.15,380.71","lineto,421.15,374.59","lineto,420.85,374.59","lineto,420.85,380.71","lineto,421.15,380.71"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,421.15,374.28","lineto,421.15,374.28","lineto,421.15,368.17","lineto,420.85,368.17","lineto,420.85,374.28","lineto,421.15,374.28"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,421.15,367.86","lineto,421.15,367.86","lineto,421.15,361.74","lineto,420.85,361.74","lineto,420.85,367.86","lineto,421.15,367.86"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,421.15,361.44","lineto,421.15,361.44","lineto,421.15,352.26","lineto,420.85,352.26","lineto,420.85,361.44","lineto,421.15,361.44"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,421.15,351.95","lineto,421.15,351.95","lineto,421.15,342.78","lineto,420.85,342.78","lineto,420.85,351.95","lineto,421.15,351.95"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,421.15,342.47","lineto,421.15,342.47","lineto,421.15,336.35","lineto,420.85,336.35","lineto,420.85,342.47","lineto,421.15,342.47"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,421.15,336.05","lineto,421.15,336.05","lineto,421.15,329.93","lineto,420.85,329.93","lineto,420.85,336.05","lineto,421.15,336.05"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,421.15,329.62","lineto,421.15,329.62","lineto,421.15,323.5","lineto,420.85,323.5","lineto,420.85,329.62","lineto,421.15,329.62"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,421.15,323.2","lineto,421.15,323.2","lineto,421.15,317.08","lineto,420.85,317.08","lineto,420.85,323.2","lineto,421.15,323.2"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,421.15,316.77","lineto,421.15,316.77","lineto,421.15,310.66","lineto,420.85,310.66","lineto,420.85,316.77","lineto,421.15,316.77"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,421.15,310.35","lineto,421.15,310.35","lineto,421.15,304.23","lineto,420.85,304.23","lineto,420.85,310.35","lineto,421.15,310.35"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,421.15,303.93","lineto,421.15,303.93","lineto,421.15,294.75","lineto,420.85,294.75","lineto,420.85,303.93","lineto,421.15,303.93"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,421.15,294.44","lineto,421.15,294.44","lineto,421.15,288.33","lineto,420.85,288.33","lineto,420.85,294.44","lineto,421.15,294.44"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,421.15,288.02","lineto,421.15,288.02","lineto,421.15,271.5","lineto,420.85,271.5","lineto,420.85,288.02","lineto,421.15,288.02"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,421.15,271.19","lineto,421.15,271.19","lineto,421.15,254.68","lineto,420.85,254.68","lineto,420.85,271.19","lineto,421.15,271.19"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,452.05,380.71","lineto,452.05,380.71","lineto,452.05,374.59","lineto,451.74,374.59","lineto,451.74,380.71","lineto,452.05,380.71"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,452.05,374.28","lineto,452.05,374.28","lineto,452.05,368.17","lineto,451.74,368.17","lineto,451.74,374.28","lineto,452.05,374.28"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,452.05,367.86","lineto,452.05,367.86","lineto,452.05,361.74","lineto,451.74,361.74","lineto,451.74,367.86","lineto,452.05,367.86"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,452.05,361.44","lineto,452.05,361.44","lineto,452.05,352.26","lineto,451.74,352.26","lineto,451.74,361.44","lineto,452.05,361.44"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,452.05,351.95","lineto,452.05,351.95","lineto,452.05,342.78","lineto,451.74,342.78","lineto,451.74,351.95","lineto,452.05,351.95"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,452.05,342.47","lineto,452.05,342.47","lineto,452.05,336.35","lineto,451.74,336.35","lineto,451.74,342.47","lineto,452.05,342.47"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,452.05,336.05","lineto,452.05,336.05","lineto,452.05,329.93","lineto,451.74,329.93","lineto,451.74,336.05","lineto,452.05,336.05"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,452.05,329.62","lineto,452.05,329.62","lineto,452.05,323.5","lineto,451.74,323.5","lineto,451.74,329.62","lineto,452.05,329.62"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,452.05,323.2","lineto,452.05,323.2","lineto,452.05,317.08","lineto,451.74,317.08","lineto,451.74,323.2","lineto,452.05,323.2"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,452.05,316.77","lineto,452.05,316.77","lineto,452.05,310.66","lineto,451.74,310.66","lineto,451.74,316.77","lineto,452.05,316.77"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,452.05,310.35","lineto,452.05,310.35","lineto,452.05,304.23","lineto,451.74,304.23","lineto,451.74,310.35","lineto,452.05,310.35"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,452.05,303.93","lineto,452.05,303.93","lineto,452.05,294.75","lineto,451.74,294.75","lineto,451.74,303.93","lineto,452.05,303.93"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,452.05,294.44","lineto,452.05,294.44","lineto,452.05,288.33","lineto,451.74,288.33","lineto,451.74,294.44","lineto,452.05,294.44"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,452.05,288.02","lineto,452.05,288.02","lineto,452.05,271.5","lineto,451.74,271.5","lineto,451.74,288.02","lineto,452.05,288.02"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,452.05,271.19","lineto,452.05,271.19","lineto,452.05,254.68","lineto,451.74,254.68","lineto,451.74,271.19","lineto,452.05,271.19"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,482.95,380.71","lineto,482.95,380.71","lineto,482.95,374.59","lineto,482.64,374.59","lineto,482.64,380.71","lineto,482.95,380.71"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,482.95,374.28","lineto,482.95,374.28","lineto,482.95,368.17","lineto,482.64,368.17","lineto,482.64,374.28","lineto,482.95,374.28"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,482.95,367.86","lineto,482.95,367.86","lineto,482.95,361.74","lineto,482.64,361.74","lineto,482.64,367.86","lineto,482.95,367.86"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,482.95,361.44","lineto,482.95,361.44","lineto,482.95,352.26","lineto,482.64,352.26","lineto,482.64,361.44","lineto,482.95,361.44"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,482.95,351.95","lineto,482.95,351.95","lineto,482.95,342.78","lineto,482.64,342.78","lineto,482.64,351.95","lineto,482.95,351.95"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,482.95,342.47","lineto,482.95,342.47","lineto,482.95,336.35","lineto,482.64,336.35","lineto,482.64,342.47","lineto,482.95,342.47"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,482.95,336.05","lineto,482.95,336.05","lineto,482.95,329.93","lineto,482.64,329.93","lineto,482.64,336.05","lineto,482.95,336.05"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,482.95,329.62","lineto,482.95,329.62","lineto,482.95,323.5","lineto,482.64,323.5","lineto,482.64,329.62","lineto,482.95,329.62"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,482.95,323.2","lineto,482.95,323.2","lineto,482.95,317.08","lineto,482.64,317.08","lineto,482.64,323.2","lineto,482.95,323.2"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,482.95,316.77","lineto,482.95,316.77","lineto,482.95,310.66","lineto,482.64,310.66","lineto,482.64,316.77","lineto,482.95,316.77"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,482.95,310.35","lineto,482.95,310.35","lineto,482.95,304.23","lineto,482.64,304.23","lineto,482.64,310.35","lineto,482.95,310.35"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,482.95,303.93","lineto,482.95,303.93","lineto,482.95,294.75","lineto,482.64,294.75","lineto,482.64,303.93","lineto,482.95,303.93"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,482.95,294.44","lineto,482.95,294.44","lineto,482.95,288.33","lineto,482.64,288.33","lineto,482.64,294.44","lineto,482.95,294.44"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,482.95,288.02","lineto,482.95,288.02","lineto,482.95,271.5","lineto,482.64,271.5","lineto,482.64,288.02","lineto,482.95,288.02"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,482.95,271.19","lineto,482.95,271.19","lineto,482.95,254.68","lineto,482.64,254.68","lineto,482.64,271.19","lineto,482.95,271.19"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,513.84,380.71","lineto,513.84,380.71","lineto,513.84,374.59","lineto,513.54,374.59","lineto,513.54,380.71","lineto,513.84,380.71"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,513.84,374.28","lineto,513.84,374.28","lineto,513.84,368.17","lineto,513.54,368.17","lineto,513.54,374.28","lineto,513.84,374.28"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,513.84,367.86","lineto,513.84,367.86","lineto,513.84,361.74","lineto,513.54,361.74","lineto,513.54,367.86","lineto,513.84,367.86"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,513.84,361.44","lineto,513.84,361.44","lineto,513.84,352.26","lineto,513.54,352.26","lineto,513.54,361.44","lineto,513.84,361.44"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,513.84,351.95","lineto,513.84,351.95","lineto,513.84,342.78","lineto,513.54,342.78","lineto,513.54,351.95","lineto,513.84,351.95"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,513.84,342.47","lineto,513.84,342.47","lineto,513.84,336.35","lineto,513.54,336.35","lineto,513.54,342.47","lineto,513.84,342.47"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,513.84,336.05","lineto,513.84,336.05","lineto,513.84,329.93","lineto,513.54,329.93","lineto,513.54,336.05","lineto,513.84,336.05"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,513.84,329.62","lineto,513.84,329.62","lineto,513.84,323.5","lineto,513.54,323.5","lineto,513.54,329.62","lineto,513.84,329.62"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,513.84,323.2","lineto,513.84,323.2","lineto,513.84,317.08","lineto,513.54,317.08","lineto,513.54,323.2","lineto,513.84,323.2"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,513.84,316.77","lineto,513.84,316.77","lineto,513.84,310.66","lineto,513.54,310.66","lineto,513.54,316.77","lineto,513.84,316.77"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,513.84,310.35","lineto,513.84,310.35","lineto,513.84,304.23","lineto,513.54,304.23","lineto,513.54,310.35","lineto,513.84,310.35"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,513.84,303.93","lineto,513.84,303.93","lineto,513.84,294.75","lineto,513.54,294.75","lineto,513.54,303.93","lineto,513.84,303.93"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,513.84,294.44","lineto,513.84,294.44","lineto,513.84,288.33","lineto,513.54,288.33","lineto,513.54,294.44","lineto,513.84,294.44"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,513.84,288.02","lineto,513.84,288.02","lineto,513.84,271.5","lineto,513.54,271.5","lineto,513.54,288.02","lineto,513.84,288.02"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,513.84,271.19","lineto,513.84,271.19","lineto,513.84,254.68","lineto,513.54,254.68","lineto,513.54,271.19","lineto,513.84,271.19"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,544.74,380.71","lineto,544.74,380.71","lineto,544.74,374.59","lineto,544.43,374.59","lineto,544.43,380.71","lineto,544.74,380.71"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,544.74,374.28","lineto,544.74,374.28","lineto,544.74,368.17","lineto,544.43,368.17","lineto,544.43,374.28","lineto,544.74,374.28"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,544.74,367.86","lineto,544.74,367.86","lineto,544.74,361.74","lineto,544.43,361.74","lineto,544.43,367.86","lineto,544.74,367.86"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,544.74,361.44","lineto,544.74,361.44","lineto,544.74,352.26","lineto,544.43,352.26","lineto,544.43,361.44","lineto,544.74,361.44"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,544.74,351.95","lineto,544.74,351.95","lineto,544.74,342.78","lineto,544.43,342.78","lineto,544.43,351.95","lineto,544.74,351.95"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,544.74,342.47","lineto,544.74,342.47","lineto,544.74,336.35","lineto,544.43,336.35","lineto,544.43,342.47","lineto,544.74,342.47"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,544.74,336.05","lineto,544.74,336.05","lineto,544.74,329.93","lineto,544.43,329.93","lineto,544.43,336.05","lineto,544.74,336.05"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,544.74,329.62","lineto,544.74,329.62","lineto,544.74,323.5","lineto,544.43,323.5","lineto,544.43,329.62","lineto,544.74,329.62"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,544.74,323.2","lineto,544.74,323.2","lineto,544.74,317.08","lineto,544.43,317.08","lineto,544.43,323.2","lineto,544.74,323.2"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,544.74,316.77","lineto,544.74,316.77","lineto,544.74,310.66","lineto,544.43,310.66","lineto,544.43,316.77","lineto,544.74,316.77"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,544.74,310.35","lineto,544.74,310.35","lineto,544.74,304.23","lineto,544.43,304.23","lineto,544.43,310.35","lineto,544.74,310.35"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,544.74,303.93","lineto,544.74,303.93","lineto,544.74,294.75","lineto,544.43,294.75","lineto,544.43,303.93","lineto,544.74,303.93"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,544.74,294.44","lineto,544.74,294.44","lineto,544.74,288.33","lineto,544.43,288.33","lineto,544.43,294.44","lineto,544.74,294.44"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,544.74,288.02","lineto,544.74,288.02","lineto,544.74,271.5","lineto,544.43,271.5","lineto,544.43,288.02","lineto,544.74,288.02"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,544.74,271.19","lineto,544.74,271.19","lineto,544.74,254.68","lineto,544.43,254.68","lineto,544.43,271.19","lineto,544.74,271.19"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,575.63,380.71","lineto,575.63,380.71","lineto,575.63,374.59","lineto,575.33,374.59","lineto,575.33,380.71","lineto,575.63,380.71"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,575.63,374.28","lineto,575.63,374.28","lineto,575.63,368.17","lineto,575.33,368.17","lineto,575.33,374.28","lineto,575.63,374.28"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,575.63,367.86","lineto,575.63,367.86","lineto,575.63,361.74","lineto,575.33,361.74","lineto,575.33,367.86","lineto,575.63,367.86"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,575.63,361.44","lineto,575.63,361.44","lineto,575.63,352.26","lineto,575.33,352.26","lineto,575.33,361.44","lineto,575.63,361.44"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,575.63,351.95","lineto,575.63,351.95","lineto,575.63,342.78","lineto,575.33,342.78","lineto,575.33,351.95","lineto,575.63,351.95"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,575.63,342.47","lineto,575.63,342.47","lineto,575.63,336.35","lineto,575.33,336.35","lineto,575.33,342.47","lineto,575.63,342.47"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,575.63,336.05","lineto,575.63,336.05","lineto,575.63,329.93","lineto,575.33,329.93","lineto,575.33,336.05","lineto,575.63,336.05"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,575.63,329.62","lineto,575.63,329.62","lineto,575.63,323.5","lineto,575.33,323.5","lineto,575.33,329.62","lineto,575.63,329.62"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,575.63,323.2","lineto,575.63,323.2","lineto,575.63,317.08","lineto,575.33,317.08","lineto,575.33,323.2","lineto,575.63,323.2"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,575.63,316.77","lineto,575.63,316.77","lineto,575.63,310.66","lineto,575.33,310.66","lineto,575.33,316.77","lineto,575.63,316.77"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,575.63,310.35","lineto,575.63,310.35","lineto,575.63,304.23","lineto,575.33,304.23","lineto,575.33,310.35","lineto,575.63,310.35"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,575.63,303.93","lineto,575.63,303.93","lineto,575.63,294.75","lineto,575.33,294.75","lineto,575.33,303.93","lineto,575.63,303.93"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,575.63,294.44","lineto,575.63,294.44","lineto,575.63,288.33","lineto,575.33,288.33","lineto,575.33,294.44","lineto,575.63,294.44"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,575.63,288.02","lineto,575.63,288.02","lineto,575.63,271.5","lineto,575.33,271.5","lineto,575.33,288.02","lineto,575.63,288.02"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,575.63,271.19","lineto,575.63,271.19","lineto,575.63,254.68","lineto,575.33,254.68","lineto,575.33,271.19","lineto,575.63,271.19"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,606.53,380.71","lineto,606.53,380.71","lineto,606.53,374.59","lineto,606.22,374.59","lineto,606.22,380.71","lineto,606.53,380.71"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,606.53,374.28","lineto,606.53,374.28","lineto,606.53,368.17","lineto,606.22,368.17","lineto,606.22,374.28","lineto,606.53,374.28"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,606.53,367.86","lineto,606.53,367.86","lineto,606.53,361.74","lineto,606.22,361.74","lineto,606.22,367.86","lineto,606.53,367.86"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,606.53,361.44","lineto,606.53,361.44","lineto,606.53,352.26","lineto,606.22,352.26","lineto,606.22,361.44","lineto,606.53,361.44"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,606.53,351.95","lineto,606.53,351.95","lineto,606.53,342.78","lineto,606.22,342.78","lineto,606.22,351.95","lineto,606.53,351.95"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,606.53,342.47","lineto,606.53,342.47","lineto,606.53,336.35","lineto,606.22,336.35","lineto,606.22,342.47","lineto,606.53,342.47"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,606.53,336.05","lineto,606.53,336.05","lineto,606.53,329.93","lineto,606.22,329.93","lineto,606.22,336.05","lineto,606.53,336.05"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,606.53,329.62","lineto,606.53,329.62","lineto,606.53,323.5","lineto,606.22,323.5","lineto,606.22,329.62","lineto,606.53,329.62"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,606.53,323.2","lineto,606.53,323.2","lineto,606.53,317.08","lineto,606.22,317.08","lineto,606.22,323.2","lineto,606.53,323.2"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,606.53,316.77","lineto,606.53,316.77","lineto,606.53,310.66","lineto,606.22,310.66","lineto,606.22,316.77","lineto,606.53,316.77"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,606.53,310.35","lineto,606.53,310.35","lineto,606.53,304.23","lineto,606.22,304.23","lineto,606.22,310.35","lineto,606.53,310.35"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,606.53,303.93","lineto,606.53,303.93","lineto,606.53,294.75","lineto,606.22,294.75","lineto,606.22,303.93","lineto,606.53,303.93"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,606.53,294.44","lineto,606.53,294.44","lineto,606.53,288.33","lineto,606.22,288.33","lineto,606.22,294.44","lineto,606.53,294.44"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,606.53,288.02","lineto,606.53,288.02","lineto,606.53,271.5","lineto,606.22,271.5","lineto,606.22,288.02","lineto,606.53,288.02"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,606.53,271.19","lineto,606.53,271.19","lineto,606.53,254.68","lineto,606.22,254.68","lineto,606.22,271.19","lineto,606.53,271.19"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,637.43,380.71","lineto,637.43,380.71","lineto,637.43,374.59","lineto,637.12,374.59","lineto,637.12,380.71","lineto,637.43,380.71"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,637.43,374.28","lineto,637.43,374.28","lineto,637.43,368.17","lineto,637.12,368.17","lineto,637.12,374.28","lineto,637.43,374.28"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,637.43,367.86","lineto,637.43,367.86","lineto,637.43,361.74","lineto,637.12,361.74","lineto,637.12,367.86","lineto,637.43,367.86"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,637.43,361.44","lineto,637.43,361.44","lineto,637.43,352.26","lineto,637.12,352.26","lineto,637.12,361.44","lineto,637.43,361.44"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,637.43,351.95","lineto,637.43,351.95","lineto,637.43,342.78","lineto,637.12,342.78","lineto,637.12,351.95","lineto,637.43,351.95"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,637.43,342.47","lineto,637.43,342.47","lineto,637.43,336.35","lineto,637.12,336.35","lineto,637.12,342.47","lineto,637.43,342.47"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,637.43,336.05","lineto,637.43,336.05","lineto,637.43,329.93","lineto,637.12,329.93","lineto,637.12,336.05","lineto,637.43,336.05"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,637.43,329.62","lineto,637.43,329.62","lineto,637.43,323.5","lineto,637.12,323.5","lineto,637.12,329.62","lineto,637.43,329.62"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,637.43,323.2","lineto,637.43,323.2","lineto,637.43,317.08","lineto,637.12,317.08","lineto,637.12,323.2","lineto,637.43,323.2"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,637.43,316.77","lineto,637.43,316.77","lineto,637.43,310.66","lineto,637.12,310.66","lineto,637.12,316.77","lineto,637.43,316.77"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,637.43,310.35","lineto,637.43,310.35","lineto,637.43,304.23","lineto,637.12,304.23","lineto,637.12,310.35","lineto,637.43,310.35"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,637.43,303.93","lineto,637.43,303.93","lineto,637.43,294.75","lineto,637.12,294.75","lineto,637.12,303.93","lineto,637.43,303.93"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,637.43,294.44","lineto,637.43,294.44","lineto,637.43,288.33","lineto,637.12,288.33","lineto,637.12,294.44","lineto,637.43,294.44"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,637.43,288.02","lineto,637.43,288.02","lineto,637.43,271.5","lineto,637.12,271.5","lineto,637.12,288.02","lineto,637.43,288.02"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,637.43,271.19","lineto,637.43,271.19","lineto,637.43,254.68","lineto,637.12,254.68","lineto,637.12,271.19","lineto,637.43,271.19"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,668.32,380.71","lineto,668.32,380.71","lineto,668.32,374.59","lineto,668.02,374.59","lineto,668.02,380.71","lineto,668.32,380.71"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,668.32,374.28","lineto,668.32,374.28","lineto,668.32,368.17","lineto,668.02,368.17","lineto,668.02,374.28","lineto,668.32,374.28"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,668.32,367.86","lineto,668.32,367.86","lineto,668.32,361.74","lineto,668.02,361.74","lineto,668.02,367.86","lineto,668.32,367.86"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,668.32,361.44","lineto,668.32,361.44","lineto,668.32,352.26","lineto,668.02,352.26","lineto,668.02,361.44","lineto,668.32,361.44"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,668.32,351.95","lineto,668.32,351.95","lineto,668.32,342.78","lineto,668.02,342.78","lineto,668.02,351.95","lineto,668.32,351.95"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,668.32,342.47","lineto,668.32,342.47","lineto,668.32,336.35","lineto,668.02,336.35","lineto,668.02,342.47","lineto,668.32,342.47"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,668.32,336.05","lineto,668.32,336.05","lineto,668.32,329.93","lineto,668.02,329.93","lineto,668.02,336.05","lineto,668.32,336.05"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,668.32,329.62","lineto,668.32,329.62","lineto,668.32,323.5","lineto,668.02,323.5","lineto,668.02,329.62","lineto,668.32,329.62"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,668.32,323.2","lineto,668.32,323.2","lineto,668.32,317.08","lineto,668.02,317.08","lineto,668.02,323.2","lineto,668.32,323.2"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,668.32,316.77","lineto,668.32,316.77","lineto,668.32,310.66","lineto,668.02,310.66","lineto,668.02,316.77","lineto,668.32,316.77"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,668.32,310.35","lineto,668.32,310.35","lineto,668.32,304.23","lineto,668.02,304.23","lineto,668.02,310.35","lineto,668.32,310.35"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,668.32,303.93","lineto,668.32,303.93","lineto,668.32,294.75","lineto,668.02,294.75","lineto,668.02,303.93","lineto,668.32,303.93"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,668.32,294.44","lineto,668.32,294.44","lineto,668.32,288.33","lineto,668.02,288.33","lineto,668.02,294.44","lineto,668.32,294.44"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,668.32,288.02","lineto,668.32,288.02","lineto,668.32,271.5","lineto,668.02,271.5","lineto,668.02,288.02","lineto,668.32,288.02"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,668.32,271.19","lineto,668.32,271.19","lineto,668.32,254.68","lineto,668.02,254.68","lineto,668.02,271.19","lineto,668.32,271.19"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,699.22,380.71","lineto,699.22,380.71","lineto,699.22,374.59","lineto,698.91,374.59","lineto,698.91,380.71","lineto,699.22,380.71"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,699.22,374.28","lineto,699.22,374.28","lineto,699.22,368.17","lineto,698.91,368.17","lineto,698.91,374.28","lineto,699.22,374.28"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,699.22,367.86","lineto,699.22,367.86","lineto,699.22,361.74","lineto,698.91,361.74","lineto,698.91,367.86","lineto,699.22,367.86"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,699.22,361.44","lineto,699.22,361.44","lineto,699.22,352.26","lineto,698.91,352.26","lineto,698.91,361.44","lineto,699.22,361.44"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,699.22,351.95","lineto,699.22,351.95","lineto,699.22,342.78","lineto,698.91,342.78","lineto,698.91,351.95","lineto,699.22,351.95"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,699.22,342.47","lineto,699.22,342.47","lineto,699.22,336.35","lineto,698.91,336.35","lineto,698.91,342.47","lineto,699.22,342.47"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,699.22,336.05","lineto,699.22,336.05","lineto,699.22,329.93","lineto,698.91,329.93","lineto,698.91,336.05","lineto,699.22,336.05"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,699.22,329.62","lineto,699.22,329.62","lineto,699.22,323.5","lineto,698.91,323.5","lineto,698.91,329.62","lineto,699.22,329.62"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,699.22,323.2","lineto,699.22,323.2","lineto,699.22,317.08","lineto,698.91,317.08","lineto,698.91,323.2","lineto,699.22,323.2"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,699.22,316.77","lineto,699.22,316.77","lineto,699.22,310.66","lineto,698.91,310.66","lineto,698.91,316.77","lineto,699.22,316.77"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,699.22,310.35","lineto,699.22,310.35","lineto,699.22,304.23","lineto,698.91,304.23","lineto,698.91,310.35","lineto,699.22,310.35"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,699.22,303.93","lineto,699.22,303.93","lineto,699.22,294.75","lineto,698.91,294.75","lineto,698.91,303.93","lineto,699.22,303.93"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,699.22,294.44","lineto,699.22,294.44","lineto,699.22,288.33","lineto,698.91,288.33","lineto,698.91,294.44","lineto,699.22,294.44"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,699.22,288.02","lineto,699.22,288.02","lineto,699.22,271.5","lineto,698.91,271.5","lineto,698.91,288.02","lineto,699.22,288.02"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,699.22,271.19","lineto,699.22,271.19","lineto,699.22,254.68","lineto,698.91,254.68","lineto,698.91,271.19","lineto,699.22,271.19"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,730.11,380.71","lineto,730.11,380.71","lineto,730.11,374.59","lineto,729.81,374.59","lineto,729.81,380.71","lineto,730.11,380.71"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,730.11,374.28","lineto,730.11,374.28","lineto,730.11,368.17","lineto,729.81,368.17","lineto,729.81,374.28","lineto,730.11,374.28"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,730.11,367.86","lineto,730.11,367.86","lineto,730.11,361.74","lineto,729.81,361.74","lineto,729.81,367.86","lineto,730.11,367.86"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,730.11,361.44","lineto,730.11,361.44","lineto,730.11,352.26","lineto,729.81,352.26","lineto,729.81,361.44","lineto,730.11,361.44"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,730.11,351.95","lineto,730.11,351.95","lineto,730.11,342.78","lineto,729.81,342.78","lineto,729.81,351.95","lineto,730.11,351.95"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,730.11,342.47","lineto,730.11,342.47","lineto,730.11,336.35","lineto,729.81,336.35","lineto,729.81,342.47","lineto,730.11,342.47"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,730.11,336.05","lineto,730.11,336.05","lineto,730.11,329.93","lineto,729.81,329.93","lineto,729.81,336.05","lineto,730.11,336.05"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,730.11,329.62","lineto,730.11,329.62","lineto,730.11,323.5","lineto,729.81,323.5","lineto,729.81,329.62","lineto,730.11,329.62"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,730.11,323.2","lineto,730.11,323.2","lineto,730.11,317.08","lineto,729.81,317.08","lineto,729.81,323.2","lineto,730.11,323.2"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,730.11,316.77","lineto,730.11,316.77","lineto,730.11,310.66","lineto,729.81,310.66","lineto,729.81,316.77","lineto,730.11,316.77"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,730.11,310.35","lineto,730.11,310.35","lineto,730.11,304.23","lineto,729.81,304.23","lineto,729.81,310.35","lineto,730.11,310.35"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,730.11,303.93","lineto,730.11,303.93","lineto,730.11,294.75","lineto,729.81,294.75","lineto,729.81,303.93","lineto,730.11,303.93"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,730.11,294.44","lineto,730.11,294.44","lineto,730.11,288.33","lineto,729.81,288.33","lineto,729.81,294.44","lineto,730.11,294.44"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,730.11,288.02","lineto,730.11,288.02","lineto,730.11,271.5","lineto,729.81,271.5","lineto,729.81,288.02","lineto,730.11,288.02"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,730.11,271.19","lineto,730.11,271.19","lineto,730.11,254.68","lineto,729.81,254.68","lineto,729.81,271.19","lineto,730.11,271.19"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,761.01,380.71","lineto,761.01,380.71","lineto,761.01,374.59","lineto,760.7,374.59","lineto,760.7,380.71","lineto,761.01,380.71"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,761.01,374.28","lineto,761.01,374.28","lineto,761.01,368.17","lineto,760.7,368.17","lineto,760.7,374.28","lineto,761.01,374.28"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,761.01,367.86","lineto,761.01,367.86","lineto,761.01,361.74","lineto,760.7,361.74","lineto,760.7,367.86","lineto,761.01,367.86"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,761.01,361.44","lineto,761.01,361.44","lineto,761.01,352.26","lineto,760.7,352.26","lineto,760.7,361.44","lineto,761.01,361.44"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,761.01,351.95","lineto,761.01,351.95","lineto,761.01,342.78","lineto,760.7,342.78","lineto,760.7,351.95","lineto,761.01,351.95"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,761.01,342.47","lineto,761.01,342.47","lineto,761.01,336.35","lineto,760.7,336.35","lineto,760.7,342.47","lineto,761.01,342.47"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,761.01,336.05","lineto,761.01,336.05","lineto,761.01,329.93","lineto,760.7,329.93","lineto,760.7,336.05","lineto,761.01,336.05"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,761.01,329.62","lineto,761.01,329.62","lineto,761.01,323.5","lineto,760.7,323.5","lineto,760.7,329.62","lineto,761.01,329.62"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,761.01,323.2","lineto,761.01,323.2","lineto,761.01,317.08","lineto,760.7,317.08","lineto,760.7,323.2","lineto,761.01,323.2"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,761.01,316.77","lineto,761.01,316.77","lineto,761.01,310.66","lineto,760.7,310.66","lineto,760.7,316.77","lineto,761.01,316.77"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,761.01,310.35","lineto,761.01,310.35","lineto,761.01,304.23","lineto,760.7,304.23","lineto,760.7,310.35","lineto,761.01,310.35"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,761.01,303.93","lineto,761.01,303.93","lineto,761.01,294.75","lineto,760.7,294.75","lineto,760.7,303.93","lineto,761.01,303.93"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,761.01,294.44","lineto,761.01,294.44","lineto,761.01,288.33","lineto,760.7,288.33","lineto,760.7,294.44","lineto,761.01,294.44"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,761.01,288.02","lineto,761.01,288.02","lineto,761.01,271.5","lineto,760.7,271.5","lineto,760.7,288.02","lineto,761.01,288.02"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,761.01,271.19","lineto,761.01,271.19","lineto,761.01,254.68","lineto,760.7,254.68","lineto,760.7,271.19","lineto,761.01,271.19"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,791.91,541","lineto,791.91,541","lineto,791.91,381.01","lineto,791.6,381.01","lineto,791.6,541","lineto,791.91,541"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,791.91,380.71","lineto,791.91,380.71","lineto,791.91,374.59","lineto,791.6,374.59","lineto,791.6,380.71","lineto,791.91,380.71"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,791.91,374.28","lineto,791.91,374.28","lineto,791.91,368.17","lineto,791.6,368.17","lineto,791.6,374.28","lineto,791.91,374.28"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,791.91,367.86","lineto,791.91,367.86","lineto,791.91,361.74","lineto,791.6,361.74","lineto,791.6,367.86","lineto,791.91,367.86"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,791.91,361.44","lineto,791.91,361.44","lineto,791.91,352.26","lineto,791.6,352.26","lineto,791.6,361.44","lineto,791.91,361.44"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,791.91,351.95","lineto,791.91,351.95","lineto,791.91,342.78","lineto,791.6,342.78","lineto,791.6,351.95","lineto,791.91,351.95"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,791.91,342.47","lineto,791.91,342.47","lineto,791.91,336.35","lineto,791.6,336.35","lineto,791.6,342.47","lineto,791.91,342.47"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,791.91,336.05","lineto,791.91,336.05","lineto,791.91,329.93","lineto,791.6,329.93","lineto,791.6,336.05","lineto,791.91,336.05"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,791.91,329.62","lineto,791.91,329.62","lineto,791.91,323.5","lineto,791.6,323.5","lineto,791.6,329.62","lineto,791.91,329.62"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,791.91,323.2","lineto,791.91,323.2","lineto,791.91,317.08","lineto,791.6,317.08","lineto,791.6,323.2","lineto,791.91,323.2"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,791.91,316.77","lineto,791.91,316.77","lineto,791.91,310.66","lineto,791.6,310.66","lineto,791.6,316.77","lineto,791.91,316.77"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,791.91,310.35","lineto,791.91,310.35","lineto,791.91,304.23","lineto,791.6,304.23","lineto,791.6,310.35","lineto,791.91,310.35"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,791.91,303.93","lineto,791.91,303.93","lineto,791.91,294.75","lineto,791.6,294.75","lineto,791.6,303.93","lineto,791.91,303.93"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,791.91,294.44","lineto,791.91,294.44","lineto,791.91,288.33","lineto,791.6,288.33","lineto,791.6,294.44","lineto,791.91,294.44"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,791.91,288.02","lineto,791.91,288.02","lineto,791.91,271.5","lineto,791.6,271.5","lineto,791.6,288.02","lineto,791.91,288.02"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,791.91,271.19","lineto,791.91,271.19","lineto,791.91,254.68","lineto,791.6,254.68","lineto,791.6,271.19","lineto,791.91,271.19"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,50.09,541.31","lineto,50.09,541.31","lineto,791.91,541.31","lineto,791.91,541","lineto,50.09,541","lineto,50.09,541.31"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,266.67,381.01","lineto,266.67,381.01","lineto,791.91,381.01","lineto,791.91,380.71","lineto,266.67,380.71","lineto,266.67,381.01"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,266.67,374.59","lineto,266.67,374.59","lineto,791.91,374.59","lineto,791.91,374.28","lineto,266.67,374.28","lineto,266.67,374.59"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,266.67,368.17","lineto,266.67,368.17","lineto,791.91,368.17","lineto,791.91,367.86","lineto,266.67,367.86","lineto,266.67,368.17"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,266.67,361.74","lineto,266.67,361.74","lineto,791.91,361.74","lineto,791.91,361.44","lineto,266.67,361.44","lineto,266.67,361.74"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,266.67,352.26","lineto,266.67,352.26","lineto,791.91,352.26","lineto,791.91,351.95","lineto,266.67,351.95","lineto,266.67,352.26"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,266.67,342.78","lineto,266.67,342.78","lineto,791.91,342.78","lineto,791.91,342.47","lineto,266.67,342.47","lineto,266.67,342.78"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,266.67,336.35","lineto,266.67,336.35","lineto,791.91,336.35","lineto,791.91,336.05","lineto,266.67,336.05","lineto,266.67,336.35"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,266.67,329.93","lineto,266.67,329.93","lineto,791.91,329.93","lineto,791.91,329.62","lineto,266.67,329.62","lineto,266.67,329.93"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,266.67,323.5","lineto,266.67,323.5","lineto,791.91,323.5","lineto,791.91,323.2","lineto,266.67,323.2","lineto,266.67,323.5"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,266.67,317.08","lineto,266.67,317.08","lineto,791.91,317.08","lineto,791.91,316.77","lineto,266.67,316.77","lineto,266.67,317.08"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,266.67,310.66","lineto,266.67,310.66","lineto,791.91,310.66","lineto,791.91,310.35","lineto,266.67,310.35","lineto,266.67,310.66"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,266.67,304.23","lineto,266.67,304.23","lineto,791.91,304.23","lineto,791.91,303.93","lineto,266.67,303.93","lineto,266.67,304.23"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,50.09,294.75","lineto,50.09,294.75","lineto,791.91,294.75","lineto,791.91,294.44","lineto,50.09,294.44","lineto,50.09,294.75"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,266.67,288.33","lineto,266.67,288.33","lineto,791.91,288.33","lineto,791.91,288.02","lineto,266.67,288.02","lineto,266.67,288.33"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,50.09,271.5","lineto,50.09,271.5","lineto,791.91,271.5","lineto,791.91,271.19","lineto,50.09,271.19","lineto,50.09,271.5"]
+				},
+				{
+					"closed":"true",
+					"points": ["moveto,266.67,254.68","lineto,266.67,254.68","lineto,791.91,254.68","lineto,791.91,254.37","lineto,266.67,254.37","lineto,266.67,254.68"]
+				}]
+			}
+		}],
+		"strokes": [
+		{
+			"width":"0.31",
+			"cap":"0",
+			"join":"0",
+			"color":"#000000",
+			"phase": "0",
+			"dashValues": [],
+			"path": {
+				"subpaths": [
+				{
+					"closed":"false",
+					"points": ["moveto,50.25,374.59","lineto,50.25,303.93"]
+				},
+				{
+					"closed":"false",
+					"points": ["moveto,81.14,368.17","lineto,81.14,329.62"]
+				},
+				{
+					"closed":"false",
+					"points": ["moveto,81.14,317.08","lineto,81.14,310.35"]
+				},
+				{
+					"closed":"false",
+					"points": ["moveto,112.04,368.17","lineto,112.04,329.62"]
+				},
+				{
+					"closed":"false",
+					"points": ["moveto,112.04,317.08","lineto,112.04,310.35"]
+				},
+				{
+					"closed":"false",
+					"points": ["moveto,80.99,288.17","lineto,112.19,288.17"]
+				},
+				{
+					"closed":"false",
+					"points": ["moveto,80.99,254.52","lineto,112.19,254.52"]
+				},
+				{
+					"closed":"false",
+					"points": ["moveto,142.94,381.01","lineto,142.94,374.28"]
+				},
+				{
+					"closed":"false",
+					"points": ["moveto,142.94,368.17","lineto,142.94,323.2"]
+				},
+				{
+					"closed":"false",
+					"points": ["moveto,142.94,317.08","lineto,142.94,303.93"]
+				},
+				{
+					"closed":"false",
+					"points": ["moveto,173.83,381.01","lineto,173.83,374.28"]
+				},
+				{
+					"closed":"false",
+					"points": ["moveto,173.83,368.17","lineto,173.83,323.2"]
+				},
+				{
+					"closed":"false",
+					"points": ["moveto,173.83,317.08","lineto,173.83,303.93"]
+				},
+				{
+					"closed":"false",
+					"points": ["moveto,204.73,381.01","lineto,204.73,374.28"]
+				},
+				{
+					"closed":"false",
+					"points": ["moveto,204.73,368.17","lineto,204.73,323.2"]
+				},
+				{
+					"closed":"false",
+					"points": ["moveto,204.73,317.08","lineto,204.73,303.93"]
+				},
+				{
+					"closed":"false",
+					"points": ["moveto,235.62,381.01","lineto,235.62,374.28"]
+				},
+				{
+					"closed":"false",
+					"points": ["moveto,235.62,368.17","lineto,235.62,323.2"]
+				},
+				{
+					"closed":"false",
+					"points": ["moveto,235.62,317.08","lineto,235.62,303.93"]
+				},
+				{
+					"closed":"false",
+					"points": ["moveto,142.78,380.86","lineto,266.67,380.86"]
+				},
+				{
+					"closed":"false",
+					"points": ["moveto,50.09,374.44","lineto,266.67,374.44"]
+				},
+				{
+					"closed":"false",
+					"points": ["moveto,50.09,368.01","lineto,266.67,368.01"]
+				},
+				{
+					"closed":"false",
+					"points": ["moveto,50.09,361.59","lineto,266.67,361.59"]
+				},
+				{
+					"closed":"false",
+					"points": ["moveto,50.09,352.11","lineto,266.67,352.11"]
+				},
+				{
+					"closed":"false",
+					"points": ["moveto,50.09,342.62","lineto,266.67,342.62"]
+				},
+				{
+					"closed":"false",
+					"points": ["moveto,50.09,336.2","lineto,266.67,336.2"]
+				},
+				{
+					"closed":"false",
+					"points": ["moveto,50.09,329.77","lineto,266.67,329.77"]
+				},
+				{
+					"closed":"false",
+					"points": ["moveto,50.09,323.35","lineto,266.67,323.35"]
+				},
+				{
+					"closed":"false",
+					"points": ["moveto,50.09,316.93","lineto,266.67,316.93"]
+				},
+				{
+					"closed":"false",
+					"points": ["moveto,50.09,310.5","lineto,266.67,310.5"]
+				},
+				{
+					"closed":"false",
+					"points": ["moveto,266.52,381.01","lineto,266.52,310.35"]
+				},
+				{
+					"closed":"false",
+					"points": ["moveto,50.09,304.08","lineto,266.67,304.08"]
+				},
+				{
+					"closed":"false",
+					"points": ["moveto,142.78,288.17","lineto,266.67,288.17"]
+				},
+				{
+					"closed":"false",
+					"points": ["moveto,142.78,254.52","lineto,266.67,254.52"]
+				}]
+			}
+		}]
+	}]
+}

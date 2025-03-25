@@ -1,0 +1,22 @@
+{
+    "default": {
+        "name": "Базові інструкції",
+        "description": "Стандартний набір інструкцій для загального використання",
+        "file": "default_instructions.txt"
+    },
+    "technical": {
+        "name": "Технічні інструкції",
+        "description": "Інструкції для технічних відповідей",
+        "file": "technical_instructions.txt"
+    },
+    "business": {
+        "name": "Бізнес-інструкції",
+        "description": "Інструкції для бізнес-консультацій",
+        "file": "business_instructions.txt"
+    },
+    "estimation": {
+        "name": "Інструкції для оцінки проектів",
+        "description": "Спеціалізовані інструкції для оцінки UI дизайн проектів",
+        "file": "estimation_instructions.txt"
+    }
+} 

@@ -1,0 +1,19 @@
+{
+  "name": "cieden-chatbot",
+  "version": "1.0.0",
+  "description": "Чат-бот для оцінки вартості дизайн-проектів",
+  "main": "server/server.js",
+  "scripts": {
+    "start": "node server/server.js",
+    "dev": "nodemon server/server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "dotenv": "^16.0.3",
+    "openai": "^4.0.0",
+    "cors": "^2.8.5"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+} 

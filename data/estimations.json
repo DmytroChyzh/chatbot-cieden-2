@@ -1,0 +1,152 @@
+{
+  "pageTypes": [
+    {
+      "type": "Лендінг",
+      "complexities": {
+        "низька": { "min": 4, "likely": 6, "max": 10 },
+        "середня": { "min": 8, "likely": 12, "max": 18 },
+        "висока": { "min": 12, "likely": 18, "max": 30 }
+      }
+    },
+    {
+      "type": "Головна сторінка",
+      "complexities": {
+        "низька": { "min": 6, "likely": 8, "max": 12 },
+        "середня": { "min": 10, "likely": 15, "max": 22 },
+        "висока": { "min": 15, "likely": 24, "max": 40 }
+      }
+    },
+    {
+      "type": "Каталог",
+      "complexities": {
+        "низька": { "min": 5, "likely": 8, "max": 12 },
+        "середня": { "min": 8, "likely": 12, "max": 20 },
+        "висока": { "min": 12, "likely": 18, "max": 28 }
+      }
+    },
+    {
+      "type": "Сторінка товару",
+      "complexities": {
+        "низька": { "min": 4, "likely": 6, "max": 10 },
+        "середня": { "min": 8, "likely": 12, "max": 18 },
+        "висока": { "min": 12, "likely": 18, "max": 28 }
+      }
+    },
+    {
+      "type": "Форма",
+      "complexities": {
+        "низька": { "min": 3, "likely": 5, "max": 8 },
+        "середня": { "min": 6, "likely": 9, "max": 14 },
+        "висока": { "min": 10, "likely": 15, "max": 24 }
+      }
+    },
+    {
+      "type": "Кошик",
+      "complexities": {
+        "низька": { "min": 5, "likely": 8, "max": 12 },
+        "середня": { "min": 10, "likely": 15, "max": 22 },
+        "висока": { "min": 15, "likely": 22, "max": 35 }
+      }
+    },
+    {
+      "type": "Оформлення замовлення",
+      "complexities": {
+        "низька": { "min": 6, "likely": 10, "max": 16 },
+        "середня": { "min": 12, "likely": 18, "max": 28 },
+        "висока": { "min": 18, "likely": 28, "max": 45 }
+      }
+    },
+    {
+      "type": "Особистий кабінет",
+      "complexities": {
+        "низька": { "min": 5, "likely": 8, "max": 12 },
+        "середня": { "min": 10, "likely": 16, "max": 24 },
+        "висока": { "min": 16, "likely": 24, "max": 40 }
+      }
+    },
+    {
+      "type": "Блог",
+      "complexities": {
+        "низька": { "min": 4, "likely": 6, "max": 10 },
+        "середня": { "min": 8, "likely": 12, "max": 20 },
+        "висока": { "min": 12, "likely": 20, "max": 32 }
+      }
+    },
+    {
+      "type": "Адміністративна панель",
+      "complexities": {
+        "низька": { "min": 8, "likely": 12, "max": 20 },
+        "середня": { "min": 15, "likely": 24, "max": 40 },
+        "висока": { "min": 25, "likely": 40, "max": 80 }
+      }
+    }
+  ],
+  "additionalPhases": {
+    "designSystem": {
+      "min": 15,
+      "likely": 24,
+      "max": 40,
+      "description": "Розробка дизайн-системи: кольори, типографіка, компоненти, стилі, тощо"
+    },
+    "discovery": {
+      "min": 5,
+      "likely": 10,
+      "max": 40,
+      "description": "Discovery фаза: аналіз вимог, дослідження користувачів, конкурентний аналіз"
+    },
+    "communication": {
+      "percentage": 0.15,
+      "description": "Комунікація з клієнтом, презентації, уточнення вимог"
+    },
+    "wireframes": {
+      "percentage": 0.4,
+      "description": "Створення прототипів та wireframes"
+    }
+  },
+  "projectTypes": {
+    "landing": {
+      "name": "Лендінг",
+      "defaultPages": [
+        { "type": "Лендінг", "complexity": "середня", "quantity": 1 }
+      ],
+      "needsDesignSystem": false,
+      "needsDiscovery": false
+    },
+    "ecommerce": {
+      "name": "E-commerce",
+      "defaultPages": [
+        { "type": "Головна сторінка", "complexity": "висока", "quantity": 1 },
+        { "type": "Каталог", "complexity": "середня", "quantity": 1 },
+        { "type": "Сторінка товару", "complexity": "середня", "quantity": 1 },
+        { "type": "Кошик", "complexity": "середня", "quantity": 1 },
+        { "type": "Оформлення замовлення", "complexity": "висока", "quantity": 1 },
+        { "type": "Особистий кабінет", "complexity": "середня", "quantity": 1 }
+      ],
+      "needsDesignSystem": true,
+      "needsDiscovery": true
+    },
+    "mobileApp": {
+      "name": "Мобільний додаток",
+      "defaultPages": [
+        { "type": "Головна сторінка", "complexity": "висока", "quantity": 1 },
+        { "type": "Форма", "complexity": "середня", "quantity": 2 },
+        { "type": "Особистий кабінет", "complexity": "середня", "quantity": 1 },
+        { "type": "Каталог", "complexity": "середня", "quantity": 1 }
+      ],
+      "needsDesignSystem": true,
+      "needsDiscovery": true
+    },
+    "portal": {
+      "name": "Інформаційний портал",
+      "defaultPages": [
+        { "type": "Головна сторінка", "complexity": "висока", "quantity": 1 },
+        { "type": "Блог", "complexity": "середня", "quantity": 1 },
+        { "type": "Форма", "complexity": "середня", "quantity": 1 },
+        { "type": "Особистий кабінет", "complexity": "низька", "quantity": 1 }
+      ],
+      "needsDesignSystem": true,
+      "needsDiscovery": true
+    }
+  },
+  "hourlyRate": 50
+} 
