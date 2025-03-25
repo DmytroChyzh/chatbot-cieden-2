@@ -3,7 +3,6 @@ const cors = require('cors');
 const axios = require('axios');
 const dotenv = require('dotenv');
 const path = require('path');
-const openModule = require('open');
 const fs = require('fs').promises;
 
 // Завантажуємо змінні оточення з .env
@@ -165,36 +164,7 @@ app.get('*', (req, res) => {
   res.sendFile(path.join(publicPath, 'index.html'));
 });
 
-// Запуск сервера з обробкою помилок порту
-const startServer = (portToUse) => {
-  const server = app.listen(portToUse, () => {
-    const url = `http://localhost:${portToUse}`;
-    console.log(`Сервер запущено на порту ${portToUse}`);
-    console.log(`Відкрийте ${url} у браузері`);
-    
-    // Автоматичне відкриття браузера
-    try {
-      openModule(url);
-    } catch (error) {
-      console.log('Не вдалося автоматично відкрити браузер:', error.message);
-      console.log(`Будь ласка, відкрийте ${url} вручну у вашому браузері`);
-    }
-  });
-
-  server.on('error', (e) => {
-    if (e.code === 'EADDRINUSE') {
-      console.log(`Порт ${portToUse} вже використовується, спробуємо використати запасний порт ${fallbackPort}`);
-      if (portToUse === port && port !== fallbackPort) {
-        startServer(fallbackPort);
-      } else {
-        console.error(`Обидва порти (${port} і ${fallbackPort}) зайняті. Спробуйте запустити на іншому порту:`);
-        console.error('Використовуйте: PORT=4000 node server.js');
-      }
-    } else {
-      console.error('Помилка запуску сервера:', e);
-    }
-  });
-};
-
-// Запускаємо сервер на основному порту
-startServer(port); 
+// Спрощуємо запуск сервера
+app.listen(port, () => {
+  console.log(`Сервер запущено на порту ${port}`);
+}); 
