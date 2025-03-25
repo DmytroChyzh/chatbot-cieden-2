@@ -18,7 +18,11 @@ const port = process.env.PORT || 3000;
 const fallbackPort = process.env.FALLBACK_PORT || 3001; // Запасний порт, якщо основний зайнятий
 
 // Дозволяємо CORS для доступу з фронтенду
-app.use(cors());
+app.use(cors({
+  origin: '*',
+  methods: ['GET', 'POST', 'OPTIONS'],
+  allowedHeaders: ['Content-Type', 'Authorization']
+}));
 app.use(express.json());
 
 // Вивід інформації про всі запити для діагностики
