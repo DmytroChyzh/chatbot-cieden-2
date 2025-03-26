@@ -963,9 +963,36 @@ document.addEventListener('DOMContentLoaded', function() {
     
     // Функція для завантаження даних для оцінки
     async function loadEstimationData() {
-        // Ми вже ініціалізували дані, тому просто повертаємо їх
-        console.log("Використовуємо локальні дані для оцінок");
-        return defaultEstimationData;
+        try {
+            // Спробуємо завантажити об'єднані дані
+            const response = await fetch('/data/all_estimations.json');
+            if (!response.ok) {
+                throw new Error('Не вдалося завантажити дані естімейтів');
+            }
+            const allEstimations = await response.json();
+            console.log("Завантажено дані з all_estimations.json");
+            
+            // Використовуємо базові налаштування з estimations.json
+            const baseResponse = await fetch('/data/estimations.json');
+            if (!baseResponse.ok) {
+                throw new Error('Не вдалося завантажити базові налаштування');
+            }
+            const baseEstimations = await baseResponse.json();
+            
+            // Об'єднуємо дані
+            const combinedData = {
+                ...baseEstimations,
+                allEstimations: allEstimations.estimations,
+                statistics: allEstimations.statistics
+            };
+            
+            console.log("Дані успішно об'єднано");
+            return combinedData;
+        } catch (error) {
+            console.error("Помилка завантаження даних:", error);
+            console.log("Використовуємо локальні дані для оцінок");
+            return defaultEstimationData;
+        }
     }
     
     // Завантажуємо дані при старті
@@ -2305,7 +2332,7 @@ document.addEventListener('DOMContentLoaded', function() {
         }
     }
     
-    // Оновлена функція обробки повідомлення
+    // Обробка надсилання повідомлення
     async function handleMessageSend() {
         const userMessage = messageInput.value.trim();
         if (userMessage === '') return;
@@ -3532,4 +3559,143 @@ document.addEventListener('DOMContentLoaded', function() {
             messageInput.addEventListener('input', updateSendButtonState);
         }
     });
+
+    // Функція для пошуку схожих проектів
+    function findSimilarProjects(projectDescription, allEstimations) {
+        if (!allEstimations) return [];
+        
+        const keywords = projectDescription.toLowerCase().split(/\s+/);
+        const similarProjects = [];
+        
+        for (const estimation of allEstimations) {
+            let matchScore = 0;
+            const projectName = estimation.name.toLowerCase();
+            
+            // Рахуємо кількість співпадінь ключових слів
+            for (const keyword of keywords) {
+                if (projectName.includes(keyword)) {
+                    matchScore++;
+                }
+            }
+            
+            if (matchScore > 0) {
+                similarProjects.push({
+                    name: estimation.name,
+                    score: matchScore,
+                    data: estimation.data
+                });
+            }
+        }
+        
+        // Сортуємо за релевантністю
+        return similarProjects.sort((a, b) => b.score - a.score);
+    }
+
+    // Функція для аналізу схожих проектів
+    function analyzeSimilarProjects(similarProjects) {
+        if (!similarProjects || similarProjects.length === 0) {
+            return null;
+        }
+        
+        const analysis = {
+            averageTime: 0,
+            minTime: Infinity,
+            maxTime: 0,
+            recommendations: []
+        };
+        
+        let totalTime = 0;
+        let projectCount = 0;
+        
+        similarProjects.forEach(project => {
+            const projectData = project.data;
+            if (projectData.totalTime) {
+                totalTime += projectData.totalTime;
+                analysis.minTime = Math.min(analysis.minTime, projectData.totalTime);
+                analysis.maxTime = Math.max(analysis.maxTime, projectData.totalTime);
+                projectCount++;
+            }
+            
+            // Додаємо рекомендації на основі схожих проектів
+            if (projectData.recommendations) {
+                analysis.recommendations.push(...projectData.recommendations);
+            }
+        });
+        
+        if (projectCount > 0) {
+            analysis.averageTime = totalTime / projectCount;
+        }
+        
+        return analysis;
+    }
+
+    // Функція для генерації відповіді з урахуванням схожих проектів
+    async function generateEstimationResponse(message, estimationData) {
+        try {
+            // Шукаємо схожі проекти
+            const similarProjects = findSimilarProjects(message, estimationData.allEstimations);
+            const analysis = analyzeSimilarProjects(similarProjects);
+            
+            // Генеруємо базову відповідь
+            let response = await processUserMessage(message, estimationData);
+            
+            // Додаємо інформацію про схожі проекти
+            if (analysis) {
+                response += "\n\n### Аналіз схожих проектів:\n";
+                response += `* Середній час розробки: ${Math.round(analysis.averageTime)} годин\n`;
+                response += `* Мінімальний час: ${Math.round(analysis.minTime)} годин\n`;
+                response += `* Максимальний час: ${Math.round(analysis.maxTime)} годин\n`;
+                
+                if (analysis.recommendations && analysis.recommendations.length > 0) {
+                    response += "\n### Рекомендації з попередніх проектів:\n";
+                    const uniqueRecommendations = [...new Set(analysis.recommendations)];
+                    uniqueRecommendations.slice(0, 5).forEach(rec => {
+                        response += `* ${rec}\n`;
+                    });
+                }
+            }
+            
+            return response;
+        } catch (error) {
+            console.error('Помилка при генерації відповіді:', error);
+            return 'Вибачте, сталася помилка при обробці вашого запиту. Спробуйте ще раз.';
+        }
+    }
+
+    // Обробка відправки повідомлення
+    async function handleSendMessage() {
+        const message = messageInput.value.trim();
+        if (message === '') return;
+
+        // Додаємо повідомлення користувача
+        addMessage(message, true);
+        messageInput.value = '';
+
+        // Показуємо індикатор завантаження
+        const loadingMessage = document.createElement('div');
+        loadingMessage.classList.add('message', 'bot-message', 'loading');
+        loadingMessage.textContent = 'Обробка запиту...';
+        chatMessages.appendChild(loadingMessage);
+
+        try {
+            // Завантажуємо дані та генеруємо відповідь
+            const estimationData = await loadEstimationData();
+            const response = await generateEstimationResponse(message, estimationData);
+
+            // Видаляємо індикатор завантаження
+            chatMessages.removeChild(loadingMessage);
+
+            // Додаємо відповідь бота
+            addMessage(response);
+
+        } catch (error) {
+            console.error('Помилка при обробці повідомлення:', error);
+            
+            // Видаляємо індикатор завантаження
+            chatMessages.removeChild(loadingMessage);
+            
+            // Додаємо повідомлення про помилку
+            addMessage('Вибачте, сталася помилка при обробці вашого запиту. Спробуйте ще раз.');
+        }
+    }
 });
