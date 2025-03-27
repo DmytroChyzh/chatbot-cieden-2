@@ -1,3 +1,6 @@
+import { ChatState } from './src/chatState.js';
+import { ConvexApi } from './src/convexApi.js';
+
 // Чат-бот для оцінки проектів за методом PERT
 document.addEventListener('DOMContentLoaded', function() {
     // DOM елементи
@@ -2329,54 +2332,46 @@ document.addEventListener('DOMContentLoaded', function() {
         
         // Додаємо повідомлення користувача до чату
         addMessage(userMessage, true);
+        chatState.addMessage('user', userMessage);
         
         // Показуємо, що бот думає
         const thinkingElement = document.createElement('div');
         thinkingElement.classList.add('message', 'bot-message', 'thinking');
-        
-        // Визначаємо текст "думання" в залежності від наявності API ключа
-        const hasApiKey = OPENAI_API_KEY && OPENAI_API_KEY !== 'your-api-key-here';
-        thinkingElement.textContent = hasApiKey 
-            ? 'Запитую AI...' 
-            : 'Аналізую запит...';
-        
+        thinkingElement.textContent = 'Обробляю відповідь...';
         chatMessages.appendChild(thinkingElement);
         
-        // Очікуємо, щоб імітувати обробку (для шаблонних відповідей)
-        // Для API відповідей імітація не потрібна, бо там буде реальне очікування
-        if (!hasApiKey) {
-            await new Promise(resolve => setTimeout(resolve, 1500));
-        }
-        
-        // Визначаємо тип запиту та аналізуємо його
         try {
-            // Визначаємо тип запиту та аналізуємо його
-            const botResponse = await analyzeRequest(userMessage, []);
+            // Обробляємо відповідь користувача
+            chatState.processAnswer(userMessage);
             
-            // Визначаємо, чи це був запит на оцінку проекту
-            const isEstimationRequest = determineQueryType(userMessage) === 'estimation';
+            // Отримуємо наступне питання
+            const nextQuestion = chatState.getCurrentQuestion();
             
             // Видаляємо повідомлення "думаю"
             chatMessages.removeChild(thinkingElement);
             
-            // Додаємо відповідь бота
-            addMessage(botResponse);
-            
-            // Показуємо кнопки дій (експорт, історія тощо) тільки для оцінки проекту
-            const actionButtons = document.querySelector('.action-buttons');
-            if (actionButtons) {
-                actionButtons.style.display = isEstimationRequest ? 'flex' : 'none';
+            if (nextQuestion) {
+                // Додаємо питання бота
+                addMessage(nextQuestion, false);
+                chatState.addMessage('assistant', nextQuestion);
+            } else if (chatState.isCompleted()) {
+                // Якщо всі дані зібрані, зберігаємо чат
+                const chatData = chatState.getData();
+                await convexApi.saveChatWithRetry(chatData);
+                
+                // Відправляємо підтвердження
+                const confirmationMessage = 'Дякуємо за надану інформацію! Наші менеджери зв\'яжуться з вами найближчим часом.';
+                addMessage(confirmationMessage, false);
+                chatState.addMessage('assistant', confirmationMessage);
             }
         } catch (error) {
-            console.error('Помилка при обробці запиту:', error);
+            console.error('Помилка при обробці повідомлення:', error);
             
             // Видаляємо повідомлення "думаю"
             chatMessages.removeChild(thinkingElement);
             
             // Показуємо повідомлення про помилку
-            addMessage(currentLanguage === 'ua' 
-                ? "Вибачте, виникла помилка при обробці вашого запиту. Будь ласка, спробуйте ще раз."
-                : "Sorry, there was an error processing your request. Please try again.");
+            addMessage("Вибачте, виникла помилка при обробці вашого повідомлення. Будь ласка, спробуйте ще раз.");
         }
     }
     
@@ -3445,7 +3440,6 @@ document.addEventListener('DOMContentLoaded', function() {
 
     // Модифікуємо функцію handleMessageSend
     async function handleMessageSend() {
-        const messageInput = document.getElementById('messageInput');
         const userMessage = messageInput.value.trim();
         
         if (!userMessage) return;
@@ -3685,4 +3679,8 @@ document.addEventListener('DOMContentLoaded', function() {
             addMessage('Вибачте, сталася помилка при обробці вашого запиту. Спробуйте ще раз.');
         }
     }
+
+    // Ініціалізація стану чату та API
+    const chatState = new ChatState();
+    const convexApi = new ConvexApi();
 });

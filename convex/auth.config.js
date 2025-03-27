@@ -1,8 +1,8 @@
-  export default {
-    providers: [
-  {
-    "domain": "https://clerk.chatbot-cieden-2.lcl.dev",
-    "applicationID": "convex"
-  }
-],
-  };
+export default {
+  providers: [
+    {
+      domain: "https://cieden-chatbot.clerk.accounts.dev",
+      applicationID: "convex"
+    }
+  ]
+};
