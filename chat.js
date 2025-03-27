@@ -531,11 +531,11 @@ document.addEventListener('DOMContentLoaded', function() {
             /місі[яю]/i, /цінності/i, /бачення/i, /vision/i, /mission/i, /values/i
         ],
         services: [
-            /послуги/i, /що ви роб/i, /як(і|ие) сервіси/i, /як(і|ие) послуги/i, /що пропону[єе]те/i,
-            /services/i, /портфоліо/i, /projects/i
+            /послуги/i, /що ви роб(і|ите|ить)/i, /як(і|ие) сервіси/i, /як(і|ие) послуги/i, /що пропону[єе]те/i,
+            /services/i, /пор(т|тфоліо)/i, /projects/i
         ],
         pricing: [
-            /варт(і|о)сть/i, /ц(і|е)н[аи]/i, /прайс/i, /sk(i|e)льки кошту[єе]/i, /скільки варту[єе]/i,
+            /варт(і|о)сть/i, /ц(і|е)н[аи]/i, /прайс/i, /скільки кошту[єе]/i, /скільки варту[єе]/i,
             /pricing/i, /rates/i, /costs/i, /оплат/i
         ],
         contacts: [
@@ -547,7 +547,7 @@ document.addEventListener('DOMContentLoaded', function() {
             /people/i, /how many/i
         ],
         cases: [
-            /кейс/i, /приклад/i, /проект/i, /case stud/i, /портфоліо/i, /examples/i, /projects/i
+            /кейс/i, /приклад/i, /проект/i, /case stud/i, /пор(т|тфоліо)/i, /examples/i, /projects/i
         ],
         process: [
             /процес/i, /як ви прац/i, /етапи робот/i, /як відбува/i, /workflow/i, /process/i, /how do you work/i
@@ -1106,19 +1106,6 @@ document.addEventListener('DOMContentLoaded', function() {
         
         return formattedText;
     }
-    
-    // Відображення прикріпленого файлу в чаті
-    /*
-    function displayFileAttachment(file) {
-        const fileElement = document.createElement('div');
-        fileElement.classList.add('file-attachment');
-        fileElement.innerHTML = `
-            <div class="file-icon">📎</div>
-            <div class="file-name">${file.name}</div>
-        `;
-        chatMessages.appendChild(fileElement);
-    }
-    */
     
     // Розрахунок часу за PERT методом
     function calculatePertEstimate(min, likely, max) {

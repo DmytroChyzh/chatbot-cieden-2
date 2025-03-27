@@ -1,0 +1,12 @@
+{
+  "project": "chatbotinfo",
+  "team": "dmytrochyzh",
+  "prodUrl": "https://healthy-goat-215.convex.cloud",
+  "functions": "convex/",
+  "authInfo": [
+    {
+      "domain": "https://clerk.chatbotinfo.lcl.dev",
+      "applicationID": "convex"
+    }
+  ]
+} 

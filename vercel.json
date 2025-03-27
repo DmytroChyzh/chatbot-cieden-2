@@ -2,22 +2,21 @@
   "version": 2,
   "builds": [
     {
-      "src": "server/server.js",
-      "use": "@vercel/node"
-    },
-    {
-      "src": "public/**",
-      "use": "@vercel/static"
+      "src": "package.json",
+      "use": "@vercel/static-build",
+      "config": {
+        "distDir": "build"
+      }
     }
   ],
   "routes": [
     {
-      "src": "/api/(.*)",
-      "dest": "server/server.js"
-    },
-    {
       "src": "/(.*)",
-      "dest": "public/$1"
+      "dest": "/index.html"
     }
-  ]
+  ],
+  "env": {
+    "REACT_APP_CLERK_PUBLISHABLE_KEY": "@react_app_clerk_publishable_key",
+    "CONVEX_URL": "@convex_url"
+  }
 } 
