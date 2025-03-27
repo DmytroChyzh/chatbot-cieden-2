@@ -1,8 +1,31 @@
 import { ChatState } from './src/chatState.js';
 import { ConvexApi } from './src/convexApi.js';
+import Clerk from '@clerk/clerk-js';
+
+// Ініціалізація Clerk
+const clerk = new Clerk(process.env.NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY);
+await clerk.load();
 
 // Чат-бот для оцінки проектів за методом PERT
-document.addEventListener('DOMContentLoaded', function() {
+document.addEventListener('DOMContentLoaded', async function() {
+    // Перевіряємо автентифікацію
+    if (!clerk.user) {
+        // Показуємо форму входу
+        const signInDiv = document.createElement('div');
+        signInDiv.innerHTML = `
+            <div class="auth-container">
+                <h2>Будь ласка, увійдіть для продовження</h2>
+                <button id="signInBtn" class="auth-button">Увійти</button>
+            </div>
+        `;
+        document.body.appendChild(signInDiv);
+        
+        document.getElementById('signInBtn').addEventListener('click', () => {
+            clerk.openSignIn();
+        });
+        return;
+    }
+
     // DOM елементи
     const chatMessages = document.getElementById('chatMessages');
     const messageInput = document.getElementById('messageInput');
@@ -10,6 +33,13 @@ document.addEventListener('DOMContentLoaded', function() {
     const clearButton = document.getElementById('clearChat');
     const suggestionButtons = document.querySelectorAll('.suggestion-btn');
     
+    // Ініціалізація стану чату та API
+    const chatState = new ChatState();
+    const convexApi = new ConvexApi();
+
+    // Встановлюємо userId з Clerk
+    chatState.setUserId(clerk.user.id);
+
     // Додаткові елементи для нових функцій
     const exportPDFButton = document.getElementById('exportPDF');
     const exportExcelButton = document.getElementById('exportExcel');

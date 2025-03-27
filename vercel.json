@@ -11,12 +11,19 @@
   ],
   "routes": [
     {
+      "src": "/convex/(.*)",
+      "headers": {
+        "Access-Control-Allow-Origin": "*"
+      }
+    },
+    {
       "src": "/(.*)",
       "dest": "/index.html"
     }
   ],
   "env": {
-    "REACT_APP_CLERK_PUBLISHABLE_KEY": "@react_app_clerk_publishable_key",
-    "CONVEX_URL": "@convex_url"
+    "NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY": "@next_public_clerk_publishable_key",
+    "NEXT_PUBLIC_CONVEX_URL": "@next_public_convex_url",
+    "OPENAI_API_KEY": "@openai_api_key"
   }
 } 

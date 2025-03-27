@@ -2,7 +2,7 @@ export class ChatState {
     constructor() {
         this.currentStep = 'project_type';
         this.userData = {
-            userId: this.generateUserId(),
+            userId: null,
             name: '',
             email: '',
             phone: '',
@@ -12,6 +12,10 @@ export class ChatState {
             messages: [],
             status: 'new'
         };
+    }
+
+    setUserId(userId) {
+        this.userData.userId = userId;
     }
 
     generateUserId() {
