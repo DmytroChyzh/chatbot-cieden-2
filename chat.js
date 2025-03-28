@@ -1,31 +1,5 @@
-import { ChatState } from './src/chatState.js';
-import { ConvexApi } from './src/convexApi.js';
-import Clerk from '@clerk/clerk-js';
-
-// Ініціалізація Clerk
-const clerk = new Clerk(process.env.NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY);
-await clerk.load();
-
 // Чат-бот для оцінки проектів за методом PERT
-document.addEventListener('DOMContentLoaded', async function() {
-    // Перевіряємо автентифікацію
-    if (!clerk.user) {
-        // Показуємо форму входу
-        const signInDiv = document.createElement('div');
-        signInDiv.innerHTML = `
-            <div class="auth-container">
-                <h2>Будь ласка, увійдіть для продовження</h2>
-                <button id="signInBtn" class="auth-button">Увійти</button>
-            </div>
-        `;
-        document.body.appendChild(signInDiv);
-        
-        document.getElementById('signInBtn').addEventListener('click', () => {
-            clerk.openSignIn();
-        });
-        return;
-    }
-
+document.addEventListener('DOMContentLoaded', function() {
     // DOM елементи
     const chatMessages = document.getElementById('chatMessages');
     const messageInput = document.getElementById('messageInput');
@@ -33,13 +7,6 @@ document.addEventListener('DOMContentLoaded', async function() {
     const clearButton = document.getElementById('clearChat');
     const suggestionButtons = document.querySelectorAll('.suggestion-btn');
     
-    // Ініціалізація стану чату та API
-    const chatState = new ChatState();
-    const convexApi = new ConvexApi();
-
-    // Встановлюємо userId з Clerk
-    chatState.setUserId(clerk.user.id);
-
     // Додаткові елементи для нових функцій
     const exportPDFButton = document.getElementById('exportPDF');
     const exportExcelButton = document.getElementById('exportExcel');
@@ -2362,46 +2329,54 @@ document.addEventListener('DOMContentLoaded', async function() {
         
         // Додаємо повідомлення користувача до чату
         addMessage(userMessage, true);
-        chatState.addMessage('user', userMessage);
         
         // Показуємо, що бот думає
         const thinkingElement = document.createElement('div');
         thinkingElement.classList.add('message', 'bot-message', 'thinking');
-        thinkingElement.textContent = 'Обробляю відповідь...';
+        
+        // Визначаємо текст "думання" в залежності від наявності API ключа
+        const hasApiKey = OPENAI_API_KEY && OPENAI_API_KEY !== 'your-api-key-here';
+        thinkingElement.textContent = hasApiKey 
+            ? 'Запитую AI...' 
+            : 'Аналізую запит...';
+        
         chatMessages.appendChild(thinkingElement);
         
+        // Очікуємо, щоб імітувати обробку (для шаблонних відповідей)
+        // Для API відповідей імітація не потрібна, бо там буде реальне очікування
+        if (!hasApiKey) {
+            await new Promise(resolve => setTimeout(resolve, 1500));
+        }
+        
+        // Визначаємо тип запиту та аналізуємо його
         try {
-            // Обробляємо відповідь користувача
-            chatState.processAnswer(userMessage);
+            // Визначаємо тип запиту та аналізуємо його
+            const botResponse = await analyzeRequest(userMessage, []);
             
-            // Отримуємо наступне питання
-            const nextQuestion = chatState.getCurrentQuestion();
+            // Визначаємо, чи це був запит на оцінку проекту
+            const isEstimationRequest = determineQueryType(userMessage) === 'estimation';
             
             // Видаляємо повідомлення "думаю"
             chatMessages.removeChild(thinkingElement);
             
-            if (nextQuestion) {
-                // Додаємо питання бота
-                addMessage(nextQuestion, false);
-                chatState.addMessage('assistant', nextQuestion);
-            } else if (chatState.isCompleted()) {
-                // Якщо всі дані зібрані, зберігаємо чат
-                const chatData = chatState.getData();
-                await convexApi.saveChatWithRetry(chatData);
-                
-                // Відправляємо підтвердження
-                const confirmationMessage = 'Дякуємо за надану інформацію! Наші менеджери зв\'яжуться з вами найближчим часом.';
-                addMessage(confirmationMessage, false);
-                chatState.addMessage('assistant', confirmationMessage);
+            // Додаємо відповідь бота
+            addMessage(botResponse);
+            
+            // Показуємо кнопки дій (експорт, історія тощо) тільки для оцінки проекту
+            const actionButtons = document.querySelector('.action-buttons');
+            if (actionButtons) {
+                actionButtons.style.display = isEstimationRequest ? 'flex' : 'none';
             }
         } catch (error) {
-            console.error('Помилка при обробці повідомлення:', error);
+            console.error('Помилка при обробці запиту:', error);
             
             // Видаляємо повідомлення "думаю"
             chatMessages.removeChild(thinkingElement);
             
             // Показуємо повідомлення про помилку
-            addMessage("Вибачте, виникла помилка при обробці вашого повідомлення. Будь ласка, спробуйте ще раз.");
+            addMessage(currentLanguage === 'ua' 
+                ? "Вибачте, виникла помилка при обробці вашого запиту. Будь ласка, спробуйте ще раз."
+                : "Sorry, there was an error processing your request. Please try again.");
         }
     }
     
@@ -3470,6 +3445,7 @@ document.addEventListener('DOMContentLoaded', async function() {
 
     // Модифікуємо функцію handleMessageSend
     async function handleMessageSend() {
+        const messageInput = document.getElementById('messageInput');
         const userMessage = messageInput.value.trim();
         
         if (!userMessage) return;
@@ -3709,8 +3685,4 @@ document.addEventListener('DOMContentLoaded', async function() {
             addMessage('Вибачте, сталася помилка при обробці вашого запиту. Спробуйте ще раз.');
         }
     }
-
-    // Ініціалізація стану чату та API
-    const chatState = new ChatState();
-    const convexApi = new ConvexApi();
 });
